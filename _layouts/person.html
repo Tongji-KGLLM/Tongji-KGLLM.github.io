@@ -14,11 +14,14 @@ layout: default
   }
   .person-avatar-container {
     text-align: center;
-    max-width: 500px; 
+    max-width: 300px; /* 限制头像容器的最大宽度 */
+    width: 100%; /* 确保在小屏幕上也能自适应 */
   }
   .person-avatar {
     width: 100%;
     height: auto;
+    max-height: 300px; /* 限制头像的最大高度 */
+    object-fit: cover; /* 确保图片填满容器并保持比例 */
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   }
