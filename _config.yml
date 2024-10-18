@@ -69,3 +69,8 @@ header_pages:
   - projects.md
   - publications.md
   - people.md
+
+collections:
+  people:
+    output: true
+    permalink: /people/:name/

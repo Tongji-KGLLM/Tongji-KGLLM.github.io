@@ -9,6 +9,7 @@ permalink: /people/
 # 团队成员
 
 ## 教授
+- [张三教授](/people/zhang-san)
 - [钟毅杰教授](/people/zhong-yijie)
 - [王昊奋教授](/people/wang-haofen)
 
@@ -26,6 +27,7 @@ permalink: /people/
 # Our Team
 
 ## Professors
+- [Professor Zhang San](/people/zhang-san)
 - [Professor Zhong Yijie](/people/zhong-yijie)
 - [Professor Wang Haofen](/people/wang-haofen)
 

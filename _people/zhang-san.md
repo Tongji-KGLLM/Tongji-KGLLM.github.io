@@ -5,6 +5,7 @@ name_en: Zhang San
 position: 教授
 position_en: Professor
 avatar: /assets/images/zhang-san.jpg
+permalink: /people/zhang-san/
 ---
 
 {% if site.lang == "zh" %}
