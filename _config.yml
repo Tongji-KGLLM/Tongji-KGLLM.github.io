@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Tongji-KGLLM 实验室
+title: Tongji-KGLLM Lab
 title_en: Tongji-KGLLM Lab
 email: kgllm@tongji.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
-  同济大学知识图谱与大语言模型实验室致力于人工智能和自然语言处理领域的前沿研究。
+  Tongji University Knowledge Graph and Large Language Model Lab is dedicated to cutting-edge research in AI and NLP.
 description_en: >- # this means to ignore newlines until "baseurl:"
   Tongji University Knowledge Graph and Large Language Model Lab is dedicated to cutting-edge research in AI and NLP.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -32,7 +32,7 @@ github_username:  tongji-kgllm
 
 # 多语言设置
 languages: ["zh", "en"]
-default_lang: "zh"
+default_lang: "en"
 exclude_from_localization: ["javascript", "images", "css"]
 parallel_localization: true
 
@@ -41,7 +41,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-polyglot
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -63,7 +62,7 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
-# 导航菜单项
+# Navigation menu items
 header_pages:
   - about.md
   - projects.md

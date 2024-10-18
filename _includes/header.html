@@ -1,11 +1,7 @@
 <header class="site-header">
   <div class="wrapper">
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
-      {% if site.lang == "zh" %}
-        {{ site.title | escape }}
-      {% else %}
-        {{ site.title_en | escape }}
-      {% endif %}
+      {{ site.title | escape }}
     </a>
     <nav class="site-nav">
       <input type="checkbox" id="nav-trigger" class="nav-trigger" />
@@ -22,23 +18,11 @@
           {% assign my_page = site.pages | where: "path", path | first %}
           {% if my_page.title %}
           <a class="page-link" href="{{ my_page.url | relative_url }}">
-            {% if site.lang == "zh" %}
-              {{ my_page.title | escape }}
-            {% else %}
-              {{ my_page.title_en | escape }}
-            {% endif %}
+            {{ my_page.title | escape }}
           </a>
           {% endif %}
         {% endfor %}
       </div>
     </nav>
-    
-    <div class="lang-switch">
-      {% if site.lang == "zh" %}
-        <a href="{{ page.url | replace: '/zh/', '/en/' }}">English</a>
-      {% else %}
-        <a href="{{ page.url | replace: '/en/', '/zh/' }}">中文</a>
-      {% endif %}
-    </div>
   </div>
 </header>

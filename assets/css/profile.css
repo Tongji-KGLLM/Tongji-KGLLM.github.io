@@ -1,0 +1,18 @@
+.profile-container {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .profile-content {
+    flex: 1;
+    padding-right: 20px;
+  }
+  
+  .profile-image {
+    flex: 0 0 200px;
+  }
+  
+  .avatar {
+    width: 100%;
+    height: auto;
+  }
