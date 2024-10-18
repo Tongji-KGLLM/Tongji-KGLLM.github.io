@@ -18,21 +18,30 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
-email: your-email@example.com
+title: Tongji-KGLLM 实验室
+title_en: Tongji-KGLLM Lab
+email: kgllm@tongji.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  同济大学知识图谱与大语言模型实验室致力于人工智能和自然语言处理领域的前沿研究。
+description_en: >- # this means to ignore newlines until "baseurl:"
+  Tongji University Knowledge Graph and Large Language Model Lab is dedicated to cutting-edge research in AI and NLP.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://kgllm.tongji.edu.cn" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  tongji-kgllm
+
+# 多语言设置
+languages: ["zh", "en"]
+default_lang: "zh"
+exclude_from_localization: ["javascript", "images", "css"]
+parallel_localization: true
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-polyglot
 
 # Exclude from processing.
 # The following items will not be processed, by default.
@@ -53,3 +62,10 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# 导航菜单项
+header_pages:
+  - about.md
+  - projects.md
+  - publications.md
+  - people.md
