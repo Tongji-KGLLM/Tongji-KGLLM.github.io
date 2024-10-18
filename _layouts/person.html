@@ -19,9 +19,9 @@ layout: default
   }
   .person-avatar {
     width: 100%;
-    height: auto;
-    max-height: 300px; /* 限制头像的最大高度 */
+    height: 300px; /* 固定高度 */
     object-fit: cover; /* 确保图片填满容器并保持比例 */
+    object-position: top; /* 从顶部开始裁剪 */
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0,0,0,0.1);
   }
