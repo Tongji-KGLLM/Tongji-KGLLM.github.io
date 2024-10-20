@@ -1,10 +1,10 @@
----
+![image](https://github.com/user-attachments/assets/946b21a1-ced6-4ea7-843e-31a82aa97661)---
 layout: person
 name_en: Wang Haofen
 position_en: Distinguished Researcher, Doctoral Supervisor
 affiliation_en: College of Design and Innovation, Tongji University
 avatar: /assets/images/wang-haofen.jpg
-intro: Haofen Wang is a distinguished researcher and doctoral supervisor at the College of Design and Innovation. He leads the Knowledge Semantic Computing Lab of Tongji University, and is the leading founder of OpenKG. He previously served as CTO in leading AI companies, accumulating rich insights into cutting-edge technologies and R&D management experience.
+intro: Haofen Wang is a distinguished researcher and doctoral supervisor at the College of Design and Innovation. He leads the Knowledge Computing Lab of Tongji University, and is the leading founder of OpenKG. He previously served as CTO in leading AI companies, accumulating rich insights into cutting-edge technologies and R&D management experience.
 ---
 
 ## Research Interests
@@ -33,12 +33,19 @@ intro: Haofen Wang is a distinguished researcher and doctoral supervisor at the 
 - Gust Editor of Journals: Big Data Mining and Analytics, World Wide Web Journal, Communication of CCF
 - Long-term PC member and Reviewers: TKDE, TOIS, TNNLS, IPM, KBS, JWS, WWW, NeurIPS, KDD, AAAI, IJCAI, ISWC ACM MM, NeurIPS.
 
-## Research Achievements
+## Publications
+Published over 170 high-level papers in the Knowledge Graph, Natural Language Processing, and other AI fields, with more than 4,000 citations.
 
-- Led over 10 national-level research projects, including the National Natural Science Key Fund, Ministry of Science and Technology Key R&D Projects, and 863 Major Projects
-- Published over 170 high-level papers in the AI field, with more than 4,000 citations
-- Best Paper, the 5th Joint International Semantic Technology Conference
-- Best Paper, 2021 China Health Information Processing Conference
+## Research Grants and Projects
+- National Natural Science Key Project: "Research on the Technology of Building Large-scale Knowledge Computing Platform"
+- National Natural Science Project: "Research on Multi-hop Knowledge Question Answering Method Based on Explainable Neural Symbolic Reasoning"
+- National Natural Science Project: "Research on Efficient Query Methods for Large-scale Annotated Semantic Knowledge"
+- Other Ministry of Science and Technology Key R&D Projects, and 863 Major Projects.
+
+## Awards
+- Best Paper, the 26th International Conference on Human-Computer Interaction (HCII 2024)
+- Best Paper, 2021 China Health Information Processing Conference (CHIP 2021)
+- Best Paper, the 5th Joint International Semantic Technology Conference (JIST 2015)
 - Excellent Publication Award, Professional Category of 2020 China Industry and Information Technology Publishing& Media Group (4/8000)
 - Shanghai Excellent Doctoral Dissertation Award in 2016
 - Best Datathon Result at the 1st Summer Datathon on Linguistic Linking Open Data (SD-LLOD-15) in 2015
