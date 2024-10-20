@@ -34,4 +34,4 @@ permalink: /publications/
 - Zhang, A., Tao, W., Li, Z., **Wang, H**., & Zhang, W. (2022). Type-aware medical visual question answering. *IEEE International Conference on Acoustics, Speech and Signal Processing*.
 - Du, H., Le, Z., **Wang, H**., Chen, Y., & Yu, J. (2022). COKG-QA: Multi-hop question answering over COVID-19 knowledge graphs. *Data Intelligence, 4(3), 471-492*.
 
-### [2007-2019 and Full List of Papers (DBLP)](https://dblp.org/pid/63/4317.html)
+### [2007-2021 and Full List of Papers (DBLP)](https://dblp.org/pid/63/4317.html)
