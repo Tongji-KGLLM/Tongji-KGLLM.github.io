@@ -45,7 +45,7 @@ intro: Haofen Wang is a distinguished researcher and doctoral supervisor at the 
 
 ## Talks:
 
-- Keynote Speaker, International Conference on Computational Linguistics and Natural Language Processing (CLNLP 2025)
+- Keynote Speaker, International Conference on Computational Linguistics and Natural Language Processing (CLNLP 2025) [[Slides]](/assets/talks/test_pdf.pdf)
 - Keynote Speaker, 5th International Conference on Computer Science, Engineering, and Education (CSEE 2024)
 - Keynote Speaker, the First International OpenKG Workshop Large Knowledge-Enhanced Models @IJCAI 2024
 - Keynote Speaker, 2024 International Workshop on LLM+KG: Data Management Opportunities in Unifying Large Language Models+Knowledge Graphs @VLDB 2024
