@@ -4,7 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
-# Publications
+# Selected Recent Papers
+
+## 2023
 - Lin, Y., Ruan, T., Liu, J., & **Wang, H**. (2023). A survey on neural data-to-text generation. *IEEE Transactions on Knowledge and Data Engineering*.（**CCF A**）
 - Wang, S., Liang, C., Gao, Y., Yang, L., Li, J., & **Wang, H**. (2024). Decoding Urban Industrial Complexity: Enhancing Knowledge-Driven Insights via IndustryScopeGPT. *Proceedings of the 31st ACM International Conference on Multimedia*. (**CCF A**)
 - Hei, N., Guo, Q., Wang, Z., Wang, Y., **Wang, H**., & Zhang, W. (2024). A User-Friendly Framework for Generating Model-Preferred Prompts in Text-to-Image Synthesis. *Proceedings of the AAAI Conference on Artificial Intelligence*. (**CCF A**)
@@ -31,3 +33,5 @@ permalink: /publications/
 - Cao, Z., Wang, S., **Wang, H**., & Zhang, W. (2022). Implicit Sentiment Analysis of Chinese Texts based on Contextual Information and Knowledge Enhancement. *IEEE Data Eng. Bull., 45(4), 72-87*.
 - Zhang, A., Tao, W., Li, Z., **Wang, H**., & Zhang, W. (2022). Type-aware medical visual question answering. *IEEE International Conference on Acoustics, Speech and Signal Processing*.
 - Du, H., Le, Z., **Wang, H**., Chen, Y., & Yu, J. (2022). COKG-QA: Multi-hop question answering over COVID-19 knowledge graphs. *Data Intelligence, 4(3), 471-492*.
+
+### [2007-2019 and Full List of Papers (DBLP)](https://dblp.org/pid/63/4317.html)
