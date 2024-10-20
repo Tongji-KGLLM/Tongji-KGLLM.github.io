@@ -1,3 +1,4 @@
+---
 layout: person
 name_en: Wang Haofen
 position_en: Distinguished Researcher, Doctoral Supervisor
