@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/946b21a1-ced6-4ea7-843e-31a82aa97661)---
 layout: person
 name_en: Wang Haofen
 position_en: Distinguished Researcher, Doctoral Supervisor
