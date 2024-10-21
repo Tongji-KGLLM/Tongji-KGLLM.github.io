@@ -43,6 +43,18 @@ Published over 170 high-level papers in the **Knowledge Graph**, **Natural Langu
 - National Natural Science Project: **Research on Efficient Query Methods for Large-scale Annotated Semantic Knowledge**
 - Other Ministry of Science and Technology Key R&D Projects, and 863 Major Projects.
 
+## Open Source Projects
+
+- [OpenKG](http://openkg.cn): An open knowledge graph initiative aimed at promoting the openness, interconnection and crowdsourcing of knowledge graph data centered on Chinese, as well as the open-source development of knowledge graph tools, models and platforms.
+
+- [OneKE](https://github.com/zjunlp/DeepKE/blob/main/example/llm/OneKE.md): A large language model-based knowledge extraction framework with preliminary bilingual (Chinese and English), multi-domain, and multi-task generalized knowledge extraction capabilities.
+
+- [OpenSPG](https://github.com/OpenSPG/openspg): A knowledge graph engine developed by Ant Group in collaboration with OpenKG, based on the SPG (Semantic-enhanced Programmable Graph) framework. It provides capabilities for domain model constrained knowledge modeling and facts and logic fused representation.
+
+- [OpenRAG](https://openrag.notion.site/Open-RAG-c41b2a4dcdea4527a7c1cd998e763595): An open-source project focused on Retrieval-Augmented Generation (RAG) techniques, aiming to enhance large language models with external knowledge retrieval capabilities.
+
+- [cnSchema](https://github.com/cnschema/cnSchema): An open Chinese knowledge graph schema, derived from schema.org and independently released by OpenKG. It focuses on Chinese information processing and supports rapid domain knowledge modeling.
+
 ## Awards
 - Best Paper, the 26th International Conference on Human-Computer Interaction (HCII 2024)
 - Best Paper, 2021 China Health Information Processing Conference (CHIP 2021)
