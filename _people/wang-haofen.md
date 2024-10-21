@@ -32,7 +32,7 @@ email: Email:&nbsp haofen.wang@tongji.edu.cn
 - Chair, the 6th Knowledge Graph Forum at the 2022 China Computer Congress (CNCC 2022)
 - Co-Editors-in-Chief: Data Intelligence
 - Guest Editor of Journals: Big Data Mining and Analytics, World Wide Web Journal, Communication of CCF, Intelligent Computing and Journal of Computer Research and Development.
-- Long-term PC member and Reviewers: ICLR, TKDE, TOIS, TNNLS, IPM, KBS, JWS, WWW, NeurIPS, KDD, AAAI, IJCAI, ISWC, ACM MM.
+- Long-term PC member and Reviewers:  AAAI, ACM MM, ICLR, IJCAI, IPM, ISWC, JWS, KBS, KDD, NeurIPS, TKDE, TNNLS, TOIS, WWW.
 
 ## Publications
 Published over 100 high-level papers in the **Knowledge Graph**, **Natural Language Processing**, and other AI fields, with more than 4,000 citations. [[Selected Recent Papers]](/people/wang-haofen/publications/)
@@ -131,4 +131,4 @@ Published over 100 high-level papers in the **Knowledge Graph**, **Natural Langu
 
 - Led the team in creating the world's first interactive virtual idol "Amber·Virtual"
 - Developed an intelligent customer service chatbot serving over 1 billion users
-- Founded "AI-ceping", a renowned large model evaluation and co-creation community, with over 1,000 daily active users and 1.5 million monthly community interactions
+- Founded ["AI-ceping"](https://ai-ceping.com), a renowned large model evaluation and co-creation community, with over 1,000 daily active users and 1.5 million monthly community interactions
