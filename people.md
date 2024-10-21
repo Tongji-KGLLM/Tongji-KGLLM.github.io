@@ -5,11 +5,11 @@ permalink: /people/
 ---
 
 ## Professors
-- [Professor Zhang San](/people/zhang-san)
-- [Professor Zhong Yijie](/people/zhong-yijie)
-- [Professor Wang Haofen](/people/wang-haofen)
+- [Wang Haofen](/people/wang-haofen)
+- [Wang Meng](/people/wang-meng)
 
 ## PhD Students
+- [Zhong Yijie](/people/zhong-yijie)
 - [Zhang Ming](/people/zhang-ming)
 - [Li Hua](/people/li-hua)
 - [Wang Qiang](/people/wang-qiang)

@@ -1,33 +1,14 @@
 ---
 layout: person
-name: 张三
-name_en: Zhang San
+name: 王萌
+name_en: Wang Meng
 position: 教授
 position_en: Professor
-avatar: /assets/images/zhang-san.jpg
-permalink: /people/zhang-san/
+avatar: /assets/images/wang-meng.png
+permalink: /people/wang-meng/
+intro: Wang Meng is a distinguished researcher and doctoral supervisor at the College of Design and Innovation. He leads the Knowledge Computing Lab of Tongji University, and is the leading founder of OpenKG. He previously served as CTO in leading AI companies, accumulating rich insights into cutting-edge technologies and R&D management experience.
 ---
 
-{% if site.lang == "zh" %}
-# 张三教授
-
-张三教授是同济大学知识图谱与大语言模型实验室的主任。他的研究兴趣包括知识图谱、自然语言处理和机器学习。
-
-## 研究方向
-- 知识图谱构建与应用
-- 大规模语言模型
-- 多模态学习
-
-## 主要成果
-1. 张三, 李四. (2023). 知识图谱增强的大语言模型研究. *人工智能学报*, 42(1), 56-70.
-2. Zhang, S., & Li, S. (2022). KG-GPT: Integrating Knowledge Graphs into Large Language Models. In *Proceedings of AAAI 2022*, pages 5678-5686.
-
-## 获奖情况
-- 2022年 国家自然科学二等奖
-- 2021年 上海市科技进步一等奖
-
-{% else %}
-# Professor Zhang San
 
 Professor Zhang San is the director of the Knowledge Graph and Large Language Model Lab at Tongji University. His research interests include knowledge graphs, natural language processing, and machine learning.
 
@@ -44,4 +25,4 @@ Professor Zhang San is the director of the Knowledge Graph and Large Language Mo
 - 2022 National Natural Science Award (Second Class)
 - 2021 Shanghai Science and Technology Progress Award (First Class)
 
-{% endif %}
+
