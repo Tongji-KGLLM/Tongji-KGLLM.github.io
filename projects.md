@@ -4,8 +4,6 @@ title: Projects
 permalink: /projects/
 ---
 
-# Research Projects
-
 ## Government-Funded Research Projects
 <!-- ## Research Grants and Projects -->
 - National Natural Science Key Project: **Research on the Technology of Building Large-scale Knowledge Computing Platform**
