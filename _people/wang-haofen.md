@@ -4,7 +4,7 @@ name_en: Wang Haofen
 position_en: Distinguished Researcher, Doctoral Supervisor
 affiliation_en: College of Design and Innovation, Tongji University
 avatar: /assets/images/wang-haofen.jpg
-intro: Haofen Wang is a distinguished researcher and doctoral supervisor at the College of Design and Innovation. He leads the Knowledge Computing Lab of Tongji University, and is the leading founder of OpenKG. He previously served as CTO in leading AI companies, accumulating rich insights into cutting-edge technologies and R&D management experience.
+intro: Haofen Wang is a distinguished researcher and doctoral supervisor at the College of Design and Innovation. He leads the Knowledge Computing Lab at Tongji University, and is the leading founder of [OpenKG](http://openkg.cn). He previously served as CTO in leading AI companies, accumulating rich insights into cutting-edge technologies and R&D management experience.
 email: Email:haofen.want@tongji.edu.cn
 ---
 
@@ -43,6 +43,18 @@ Published over 170 high-level papers in the **Knowledge Graph**, **Natural Langu
 - National Natural Science Project: **Research on Efficient Query Methods for Large-scale Annotated Semantic Knowledge**
 - Other Ministry of Science and Technology Key R&D Projects, and 863 Major Projects.
 
+## Open Source Projects
+
+- [OpenKG](http://openkg.cn): An open knowledge graph initiative aimed at promoting the openness, interconnection and crowdsourcing of knowledge graph data centered on Chinese, as well as the open-source development of knowledge graph tools, models and platforms.
+
+- [OneKE](https://github.com/zjunlp/DeepKE/blob/main/example/llm/OneKE.md): A large language model-based knowledge extraction framework with preliminary bilingual (Chinese and English), multi-domain, and multi-task generalized knowledge extraction capabilities.
+
+- [OpenSPG](https://github.com/OpenSPG/openspg): A knowledge graph engine developed by Ant Group in collaboration with OpenKG, based on the SPG (Semantic-enhanced Programmable Graph) framework. It provides capabilities for domain model constrained knowledge modeling and facts and logic fused representation.
+
+- [OpenRAG](https://openrag.notion.site/Open-RAG-c41b2a4dcdea4527a7c1cd998e763595): An open-source project focused on Retrieval-Augmented Generation (RAG) techniques, aiming to enhance large language models with external knowledge retrieval capabilities.
+
+- [cnSchema](https://github.com/cnschema/cnSchema): An open Chinese knowledge graph schema, derived from schema.org and independently released by OpenKG. It focuses on Chinese information processing and supports rapid domain knowledge modeling.
+
 ## Awards
 - Best Paper, the 26th International Conference on Human-Computer Interaction (HCII 2024)
 - Best Paper, 2021 China Health Information Processing Conference (CHIP 2021)
@@ -53,14 +65,14 @@ Published over 170 high-level papers in the **Knowledge Graph**, **Natural Langu
 
 ## Talks:
 
-- Keynote Speaker, International Conference on Computational Linguistics and Natural Language Processing (CLNLP 2025) [[Slides]](/assets/talks/test_pdf.pdf)
-- Keynote Speaker, 5th International Conference on Computer Science, Engineering, and Education (CSEE 2024)[[Slides]](/assets/talks/test_pdf.pdf)
-- Keynote Speaker, the First International OpenKG Workshop Large Knowledge-Enhanced Models @IJCAI 2024[[Slides]](/assets/talks/test_pdf.pdf)
-- Keynote Speaker, 2024 International Workshop on LLM+KG: Data Management Opportunities in Unifying Large Language Models+Knowledge Graphs @VLDB 2024[[Slides]](/assets/talks/test_pdf.pdf)
-- Keynote Speaker, 2023 IEEE International Symposium on Product Compliance Engineering-Asia (IEEE 2023 ISPCE-AS)[[Slides]](/assets/talks/test_pdf.pdf)
-- Keynote Speaker, the International Conference on Computational Linguistics and Natural Language Processing (CLNLP 2023)[[Slides]](/assets/talks/test_pdf.pdf)
-- Keynote Speaker, 6th International Joint Conference, APWeb-WAIM 2022[[Slides]](/assets/talks/test_pdf.pdf)
-- Keynote Speaker, 2020 Machine Learning Summit[[Slides]](/assets/talks/test_pdf.pdf)
+- Keynote Speaker, International Conference on Computational Linguistics and Natural Language Processing (CLNLP 2025)
+- Keynote Speaker, 5th International Conference on Computer Science, Engineering, and Education (CSEE 2024)
+- Keynote Speaker, the First International OpenKG Workshop Large Knowledge-Enhanced Models @IJCAI 2024[[Slides]](/assets/talks/IJCAI_2024.pdf)
+- Keynote Speaker, 2024 International Workshop on LLM+KG: Data Management Opportunities in Unifying Large Language Models+Knowledge Graphs @VLDB 2024[[Slides]](/assets/talks/VLDB_2024.pdf)
+- Keynote Speaker, 2023 IEEE International Symposium on Product Compliance Engineering-Asia (IEEE 2023 ISPCE-AS)
+- Keynote Speaker, the International Conference on Computational Linguistics and Natural Language Processing (CLNLP 2023)[[Slides]](/assets/talks/CLNLP_2023.pdf)
+- Keynote Speaker, 6th International Joint Conference, APWeb-WAIM 2022[[Slides]](/assets/talks/APWeb_2023.pdf)
+- Keynote Speaker, 2020 Machine Learning Summit
 
 ## Practical Applications
 
