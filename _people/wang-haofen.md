@@ -4,7 +4,7 @@ name_en: Wang Haofen
 position_en: Distinguished Researcher, Doctoral Supervisor
 affiliation_en: College of Design and Innovation, Tongji University
 avatar: /assets/images/wang-haofen.jpg
-intro: Haofen Wang is a distinguished researcher and doctoral supervisor at the College of Design and Innovation. He leads the Knowledge Computing Lab at Tongji University, and is the leading founder of [OpenKG](http://openkg.cn). He previously served as CTO in leading AI companies, accumulating rich insights into cutting-edge technologies and R&D management experience.
+intro: Haofen Wang is a distinguished researcher and doctoral supervisor at the College of Design and Innovation. He leads the Knowledge Computing Lab at Tongji University, and is the leading founder of OpenKG. He previously served as CTO in leading AI companies, accumulating rich insights into cutting-edge technologies and R&D management experience.
 email: Email:haofen.want@tongji.edu.cn
 ---
 
@@ -45,15 +45,66 @@ Published over 170 high-level papers in the **Knowledge Graph**, **Natural Langu
 
 ## Open Source Projects
 
-- [OpenKG](http://openkg.cn): An open knowledge graph initiative aimed at promoting the openness, interconnection and crowdsourcing of knowledge graph data centered on Chinese, as well as the open-source development of knowledge graph tools, models and platforms.
+<div style="display: flex; align-items: center;">
+  <div style="flex: 65;">
+    <h3>OpenKG <a href="http://openkg.cn">[link]</a></h3>
+    <p>OpenKG is an open knowledge graph initiative aimed at promoting the openness, interconnection, and crowdsourcing of knowledge graph data centered on Chinese, as well as the open-source development of knowledge graph tools, models, and platforms.</p>
+  </div>
+  <div style="flex: 35; text-align: center;">
+    <img src="/assets/images/project/OpneKG.png" alt="OpenKG" width="300">
+  </div>
+</div>
 
-- [OneKE](https://github.com/zjunlp/DeepKE/blob/main/example/llm/OneKE.md): A large language model-based knowledge extraction framework with preliminary bilingual (Chinese and English), multi-domain, and multi-task generalized knowledge extraction capabilities.
+<div style="display: flex; align-items: center;">
+  <div style="flex: 65;">
+    <h3>OneKE <a href="https://github.com/zjunlp/DeepKE/blob/main/example/llm/OneKE.md">[link]</a></h3>
+    <p>OneKE is a large language model-based knowledge extraction framework with preliminary bilingual (Chinese and English), multi-domain, and multi-task generalized knowledge extraction capabilities.</p>
+  </div>
+  <div style="flex: 35; text-align: center;">
+    <img src="/assets/images/project/OneKE.png" alt="OneKE" width="300">
+  </div>
+</div>
 
-- [OpenSPG](https://github.com/OpenSPG/openspg): A knowledge graph engine developed by Ant Group in collaboration with OpenKG, based on the SPG (Semantic-enhanced Programmable Graph) framework. It provides capabilities for domain model constrained knowledge modeling and facts and logic fused representation.
+<div style="display: flex; align-items: center;">
+  <div style="flex: 65;">
+    <h3>OpenSPG <a href="https://github.com/OpenSPG/openspg">[link]</a></h3>
+    <p>OpenSPG is a knowledge graph engine developed by Ant Group in collaboration with OpenKG, based on the SPG (Semantic-enhanced Programmable Graph) framework. It provides capabilities for domain model constrained knowledge modeling and facts and logic fused representation.</p>
+  </div>
+  <div style="flex: 35; text-align: center;">
+    <img src="/assets/images/project/OpenSPG.png" alt="OpenSPG" width="300">
+  </div>
+</div>
 
-- [OpenRAG](https://openrag.notion.site/Open-RAG-c41b2a4dcdea4527a7c1cd998e763595): An open-source project focused on Retrieval-Augmented Generation (RAG) techniques, aiming to enhance large language models with external knowledge retrieval capabilities.
+<div style="display: flex; align-items: center;">
+  <div style="flex: 65;">
+    <h3>OpenRAG <a href="https://openrag.notion.site/Open-RAG-c41b2a4dcdea4527a7c1cd998e763595">[link]</a></h3>
+    <p>OpenRAG is an open-source project focused on Retrieval-Augmented Generation (RAG) techniques, aiming to enhance large language models with external knowledge retrieval capabilities.</p>
+  </div>
+  <div style="flex: 35; text-align: center;">
+    <img src="/assets/images/project/OpenRAG.png" alt="OpenRAG" width="300">
+  </div>
+</div>
 
-- [cnSchema](https://github.com/cnschema/cnSchema): An open Chinese knowledge graph schema, derived from schema.org and independently released by OpenKG. It focuses on Chinese information processing and supports rapid domain knowledge modeling.
+<div style="display: flex; align-items: center;">
+  <div style="flex: 65;">
+    <h3>cnSchema <a href="https://github.com/cnschema/cnSchema">[link]</a></h3>
+    <p>cnSchema is an open Chinese knowledge graph schema, derived from schema.org and independently released by OpenKG. It focuses on Chinese information processing and supports rapid domain knowledge modeling.</p>
+  </div>
+  <div style="flex: 35; text-align: center;">
+    <img src="/assets/images/project/cnSchema.png" alt="cnSchema" width="300">
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 65;">
+    <h3>AI-Ceping <a href="https://ai-ceping.com">[link]</a></h3>
+    <p>AI-Ceping is a cutting-edge platform dedicated to the evaluation and advancement of large AI models. As a pioneer in the field, AI-Ceping offers a comprehensive suite of tools and services designed to test, improve, and showcase artificial intelligence capabilities.</p>
+  </div>
+  <div style="flex: 35; text-align: center;">
+    <img src="/assets/images/project/AI-ceping.png" alt="AI-Ceping" width="300">
+  </div>
+</div>
+
 
 ## Awards
 - Best Paper, the 26th International Conference on Human-Computer Interaction (HCII 2024)
