@@ -22,13 +22,13 @@ title: Knowledge Computing Lab
 title_en: Knowledge Computing Lab 
 email: haofen.wang@tongji.edu.cn
 description: >- # this means to ignore newlines until "baseurl:"
-  Tongji University Knowledge Graph and Large Language Model Lab is dedicated to cutting-edge research in AI and NLP.
+  Knowledge Computing Lab at Tongji University is dedicated to the synergies of KG and LLM
 description_en: >- # this means to ignore newlines until "baseurl:"
-  Tongji University Knowledge Graph and Large Language Model Lab is dedicated to cutting-edge research in AI and NLP.
+  Knowledge Computing Lab at Tongji University is dedicated to the synergies of KG and LLM
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kgllm.tongji.edu.cn" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  tongji-kgllm
+# twitter_username: tongji-kgllm
+github_username:  Knowledge Computing Lab 
 
 # 多语言设置
 languages: ["zh", "en"]
