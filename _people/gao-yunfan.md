@@ -4,7 +4,7 @@ name_en: Gao Yunfan
 position_en:  2nd year Ph.D. student 
 affiliation_en: Shanghai Research Institute for Intelligent Autnomous Systems, Tongji University
 avatar: /assets/images/gao-yunfan.jpg
-email: Emial:Gaoyunfan1602@gmail.com
+email: Emial:&nbsp Gaoyunfan1602@gmail.com
 intro: Gao Yunfan is a 2nd year Ph.D. student in Shanghai Research Institute for Intelligent Autnomous Systems at Tongji University, with a Master's from Fudan University.His research focuses on Retrieval-Augmented Generation, Large Language Model and Geospatial Data Mining. In the future, Gao will continue to explore the integration of RAG and KG knowledge technologies, as well as their practical applications in real-world scenarios.
 
 ---

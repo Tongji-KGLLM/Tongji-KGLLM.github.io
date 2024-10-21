@@ -5,7 +5,7 @@ position_en: Distinguished Researcher, Doctoral Supervisor
 affiliation_en: College of Design and Innovation, Tongji University
 avatar: /assets/images/wang-haofen.jpg
 intro: Haofen Wang is a distinguished researcher and doctoral supervisor at the College of Design and Innovation, Tongji University. His research focuses on knowledge graphs. He leads the Knowledge Computing Lab at Tongji University, and is the leading founder of OpenKG, which is the largest Chinese knowledge graph community in the world. Currently, he holds important academic roles with the China Computer Federation (CCF), the Chinese Information Processing Society of China (CIPS), and the Shanghai Computer Federation, and has served as long-term PC member and reviewers for top journals and conferences on knowledge graphs and artificial intelligence, including TKDE, TOIS, TNNLS, IPM, KBS, JWS, WWW, NeurIPS, KDD, AAAI, IJCAI, ISWC, and ACM MM. Before joining Tongji, he served as CTO in leading AI companies, where he led a team in building an intelligent customer service robot based on knowledge graphs, that has served over 1 billion end-users. He has host several national natural science foundation projects, 863 major projects, and relevant projects supported by the Ministry of Science and Technology. He has published over 160 high-level papers, four books on knowledge graphs, with the book "Knowledge Graph Methods, Practices, and Applications" winning the 2019 Publication Award of Professional Category of 2020 China Industry and Information Technology Publishing& Media Group (4/8000). 
-email: Email:&nbsp haofen.want@tongji.edu.cn
+email: Email:&nbsp haofen.wang@tongji.edu.cn
 ---
 
 ## Research Interests
