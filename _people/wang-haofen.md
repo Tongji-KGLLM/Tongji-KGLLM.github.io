@@ -31,8 +31,8 @@ email: Email:haofen.want@tongji.edu.cn
 - PC Chair, the 10th International Joint Conference on Knowledge Graphs (IJCKG 2021)
 - Chair, the 6th Knowledge Graph Forum at the 2022 China Computer Congress (CNCC 2022)
 - Co-Editors-in-Chief: Data Intelligence
-- Gust Editor of Journals: Big Data Mining and Analytics, World Wide Web Journal, Communication of CCF
-- Long-term PC member and Reviewers: TKDE, TOIS, TNNLS, IPM, KBS, JWS, WWW, NeurIPS, KDD, AAAI, IJCAI, ISWC ACM MM, NeurIPS.
+- Guest Editor of Journals: Big Data Mining and Analytics, World Wide Web Journal, Communication of CCF,Intelligent Computing and Journal of Computer Research and Development.
+- Long-term PC member and Reviewers: TKDE, TOIS, TNNLS, IPM, KBS, JWS, WWW, NeurIPS, KDD, AAAI, IJCAI, ISWC ACM MM.
 
 ## Publications
 Published over 170 high-level papers in the **Knowledge Graph**, **Natural Language Processing**, and other AI fields, with more than 4,000 citations. [[Selected Recent Papers]](/people/wang-haofen/publications/)
@@ -98,7 +98,7 @@ Published over 170 high-level papers in the **Knowledge Graph**, **Natural Langu
 <div style="display: flex; align-items: center;">
   <div style="flex: 65;">
     <h3>AI-Ceping <a href="https://ai-ceping.com">[link]</a></h3>
-    <p>AI-Ceping is a cutting-edge platform dedicated to the evaluation and advancement of large AI models. As a pioneer in the field, AI-Ceping offers a comprehensive suite of tools and services designed to test, improve, and showcase artificial intelligence capabilities.</p>
+    <p>AI-Ceping is a cutting-edge platform dedicated to the evaluation and advancement of LLMs. As a pioneer in the field, AI-Ceping offers a comprehensive suite of tools and services designed to test, improve, and showcase LLMs capabilities.</p>
   </div>
   <div style="flex: 35; text-align: center;">
     <img src="/assets/images/project/AI-ceping.png" alt="AI-Ceping" width="300">

@@ -6,13 +6,15 @@ permalink: /projects/
 
 # Research Projects
 
-Here are some of the main research projects currently underway in our lab:
+## Government-Funded Research Projects
+<!-- ## Research Grants and Projects -->
+- National Natural Science Key Project: **Research on the Technology of Building Large-scale Knowledge Computing Platform**
+- National Natural Science Project: **Research on Multi-hop Knowledge Question Answering Method Based on Explainable Neural Symbolic Reasoning**
+- National Natural Science Project: **Research on Efficient Query Methods for Large-scale Annotated Semantic Knowledge**
+- Other Ministry of Science and Technology Key R&D Projects, and 863 Major Projects.
 
-1. **Intelligent Medical Knowledge Graph Construction**
-   - Automatically extract medical knowledge from medical literature and clinical records using natural language processing techniques to build a comprehensive medical knowledge graph.
 
-2. **Multilingual Large-scale Pre-trained Language Models**
-   - Develop large-scale pre-trained language models supporting multiple languages to improve model performance in cross-lingual tasks.
 
-3. **Knowledge-enhanced Dialogue Systems**
-   - Combine knowledge graphs with large language models to develop intelligent dialogue systems with rich knowledge backgrounds.
+## Collaborative Industry Projects 
+- Huawei: Knowledge-enhanced Personal Intelligent Assistant
+- BMW: Knowledge Engine and Platform in Intelligent Cockpit
