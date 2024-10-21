@@ -65,14 +65,14 @@ Published over 170 high-level papers in the **Knowledge Graph**, **Natural Langu
 
 ## Talks:
 
-- Keynote Speaker, International Conference on Computational Linguistics and Natural Language Processing (CLNLP 2025) [[Slides]](/assets/talks/test_pdf.pdf)
-- Keynote Speaker, 5th International Conference on Computer Science, Engineering, and Education (CSEE 2024)[[Slides]](/assets/talks/test_pdf.pdf)
-- Keynote Speaker, the First International OpenKG Workshop Large Knowledge-Enhanced Models @IJCAI 2024[[Slides]](/assets/talks/test_pdf.pdf)
-- Keynote Speaker, 2024 International Workshop on LLM+KG: Data Management Opportunities in Unifying Large Language Models+Knowledge Graphs @VLDB 2024[[Slides]](/assets/talks/test_pdf.pdf)
-- Keynote Speaker, 2023 IEEE International Symposium on Product Compliance Engineering-Asia (IEEE 2023 ISPCE-AS)[[Slides]](/assets/talks/test_pdf.pdf)
-- Keynote Speaker, the International Conference on Computational Linguistics and Natural Language Processing (CLNLP 2023)[[Slides]](/assets/talks/test_pdf.pdf)
-- Keynote Speaker, 6th International Joint Conference, APWeb-WAIM 2022[[Slides]](/assets/talks/test_pdf.pdf)
-- Keynote Speaker, 2020 Machine Learning Summit[[Slides]](/assets/talks/test_pdf.pdf)
+- Keynote Speaker, International Conference on Computational Linguistics and Natural Language Processing (CLNLP 2025)
+- Keynote Speaker, 5th International Conference on Computer Science, Engineering, and Education (CSEE 2024)
+- Keynote Speaker, the First International OpenKG Workshop Large Knowledge-Enhanced Models @IJCAI 2024[[Slides]](/assets/talks/IJCAI_2024_pdf.pdf)
+- Keynote Speaker, 2024 International Workshop on LLM+KG: Data Management Opportunities in Unifying Large Language Models+Knowledge Graphs @VLDB 2024[[Slides]](/assets/talks/VLDB_2024_pdf.pdf)
+- Keynote Speaker, 2023 IEEE International Symposium on Product Compliance Engineering-Asia (IEEE 2023 ISPCE-AS)
+- Keynote Speaker, the International Conference on Computational Linguistics and Natural Language Processing (CLNLP 2023)[[Slides]](/assets/talks/CLNLP_2023_pdf.pdf)
+- Keynote Speaker, 6th International Joint Conference, APWeb-WAIM 2022[[Slides]](/assets/talks/APWeb_2023_pdf.pdf)
+- Keynote Speaker, 2020 Machine Learning Summit
 
 ## Practical Applications
 
