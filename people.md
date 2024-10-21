@@ -5,10 +5,12 @@ permalink: /people/
 ---
 
 ## Professors
+
 - [Wang Haofen](/people/wang-haofen)
 - [Wang Meng](/people/wang-meng)
 
 ## PhD Students
+
 - [Du Huifang](/people/du-huifang)
 - [Wang Siqi](/people/wang-siqi)
 - [Zhong Yijie](/people/zhong-yijie)
@@ -17,6 +19,7 @@ permalink: /people/
 - [Sun Jiawei](/people/sun-jiawei)
 
 ## Master Students
+
 - [Zhang Yiming](/people/zhang-yiming)
 - [Guo Weikang](/people/guo-weikang)
 - [Wang Yisong](/people/wang-yisong)
