@@ -35,7 +35,7 @@ email: Email:&nbsp haofen.wang@tongji.edu.cn
 - Long-term PC member and Reviewers: ICLR, TKDE, TOIS, TNNLS, IPM, KBS, JWS, WWW, NeurIPS, KDD, AAAI, IJCAI, ISWC, ACM MM.
 
 ## Publications
-Published over 170 high-level papers in the **Knowledge Graph**, **Natural Language Processing**, and other AI fields, with more than 4,000 citations. [[Selected Recent Papers]](/people/wang-haofen/publications/)
+Published over 100 high-level papers in the **Knowledge Graph**, **Natural Language Processing**, and other AI fields, with more than 4,000 citations. [[Selected Recent Papers]](/people/wang-haofen/publications/)
 
 ## Research Grants
 - National Natural Science Key Project: **Research on the Technology of Building Large-scale Knowledge Computing Platform**
