@@ -31,8 +31,8 @@ email: Email:haofen.want@tongji.edu.cn
 - PC Chair, the 10th International Joint Conference on Knowledge Graphs (IJCKG 2021)
 - Chair, the 6th Knowledge Graph Forum at the 2022 China Computer Congress (CNCC 2022)
 - Co-Editors-in-Chief: Data Intelligence
-- Guest Editor of Journals: Big Data Mining and Analytics, World Wide Web Journal, Communication of CCF,Intelligent Computing and Journal of Computer Research and Development.
-- Long-term PC member and Reviewers: TKDE, TOIS, TNNLS, IPM, KBS, JWS, WWW, NeurIPS, KDD, AAAI, IJCAI, ISWC ACM MM.
+- Guest Editor of Journals: Big Data Mining and Analytics, World Wide Web Journal, Communication of CCF, Intelligent Computing and Journal of Computer Research and Development.
+- Long-term PC member and Reviewers: TKDE, TOIS, TNNLS, IPM, KBS, JWS, WWW, NeurIPS, KDD, AAAI, IJCAI, ISWC, ACM MM.
 
 ## Publications
 Published over 170 high-level papers in the **Knowledge Graph**, **Natural Language Processing**, and other AI fields, with more than 4,000 citations. [[Selected Recent Papers]](/people/wang-haofen/publications/)
