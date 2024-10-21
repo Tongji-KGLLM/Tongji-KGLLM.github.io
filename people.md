@@ -5,6 +5,7 @@ permalink: /people/
 ---
 
 ## Professors
+
 - [Wang Haofen](/people/wang-haofen)
 - [Wang Meng](/people/wang-meng)
 
@@ -18,6 +19,7 @@ permalink: /people/
 - [Gao Yunfan](/people/gao-yunfan)
 
 ## Master Students
-- [Liu Fang](/people/liu-fang)
-- [Chen Wei](/people/chen-wei)
-- [Zhao Jing](/people/zhao-jing)
+
+- [Zhang Yiming](/people/zhang-yiming)
+- [Guo Weikang](/people/guo-weikang)
+- [Wang Yisong](/people/wang-yisong)
