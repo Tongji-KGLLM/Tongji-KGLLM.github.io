@@ -3,7 +3,7 @@ layout: person
 name_en: Zhong Yijie
 position_en: Ph.D. candidate
 affiliation_en: College of Design and Innovation, Tongji University
-avatar: /assets/images/test.png
+avatar: /assets/images/zhong-yijie.jpg
 email: Email:&nbsp dun.haski@gmail.com
 intro: Yijie Zhong is a Ph.D. student in College of Design and Innovation at Tongji University, with a Master's from Nanjing University, Department of Computer Science and Technology. His research focuses on personal knowledge extraction and management, knowledge graph and large language model, salient/camouflaged object detection and natural image matting. Zhong will continue to explore the LLM-based agent and practical use in daily life.
 ---
