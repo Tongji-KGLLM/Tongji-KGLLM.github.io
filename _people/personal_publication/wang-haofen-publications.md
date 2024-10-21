@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Recent Papers of Wang Haofen (Selected)
+title: Recent Papers (Selected)
 permalink: /people/wang-haofen/publications/
 ---
 
