@@ -9,12 +9,12 @@ intro: Gao Yunfan is a 2nd year Ph.D. student in Shanghai Research Institute for
 
 ---
 
-## Research Interests
+# Research Interests
+
 - Retrieval-Augmented Generation
 - Large Language Models
 - Knowledge Graph
 - Geospatial Data Mining
-
 
 ## Professional Experience
 
@@ -26,17 +26,14 @@ intro: Gao Yunfan is a 2nd year Ph.D. student in Shanghai Research Institute for
 
 - Participated in intelligent store location selection and advertising rental tasks
 
-
 ### Cindasc Securities Research Center | Consumer Industry Research Assistant | May 2018 - May 2019
 
 - industry research, including data collection and analysis, financial modeling, and report writing
 
-
 ## Certifications
 
 - ACCA Affiliate  
-- CET-6: 593 
-
+- CET-6: 593
 
 ## Publications
 
@@ -51,4 +48,3 @@ intro: Gao Yunfan is a 2nd year Ph.D. student in Shanghai Research Institute for
 - Yunfan Gao, Dong Han, Haofen Wang, Maohong Zhang, Fangjie Hou, Dongqing Yu, Yun Xiong. GeoGTI: Towards a General, Transferable and Interpretable Site Recommendation. WISA 2022: 559-571
 
 - Yunfan Gao, Yun Xiong,Siqi Wang, Haofen Wang. GeoBERT: pre-training geospatial representation learning on point-of-Interest[J]. Applied Sciences, 2022, 12(24): 12942.
-
