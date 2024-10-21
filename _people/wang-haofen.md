@@ -4,7 +4,7 @@ name_en: Wang Haofen
 position_en: Distinguished Researcher, Doctoral Supervisor
 affiliation_en: College of Design and Innovation, Tongji University
 avatar: /assets/images/wang-haofen.jpg
-intro: Haofen Wang is a distinguished researcher and doctoral supervisor at the College of Design and Innovation. He leads the Knowledge Computing Lab of Tongji University, and is the leading founder of OpenKG. He previously served as CTO in leading AI companies, accumulating rich insights into cutting-edge technologies and R&D management experience.
+intro: Haofen Wang is a distinguished researcher and doctoral supervisor at the College of Design and Innovation. He leads the Knowledge Computing Lab at Tongji University, and is the leading founder of [OpenKG](http://openkg.cn). He previously served as CTO in leading AI companies, accumulating rich insights into cutting-edge technologies and R&D management experience.
 email: Email:haofen.want@tongji.edu.cn
 ---
 
