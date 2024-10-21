@@ -9,10 +9,13 @@ permalink: /people/
 - [Wang Meng](/people/wang-meng)
 
 ## PhD Students
+- [Du Huifang](/people/du-huifang)
+- [Wang Siqi](/people/wang-siqi)
+- [Pan Fangyong](/people/Pan-fangyong)
 - [Zhong Yijie](/people/zhong-yijie)
-- [Zhang Ming](/people/zhang-ming)
-- [Li Hua](/people/li-hua)
-- [Wang Qiang](/people/wang-qiang)
+- [Dai Yi](/people/dai-yi)
+- [Sun Jiawei](/people/sun-jiawei)
+- [Gao Yunfan](/people/gao-yunfan)
 
 ## Master Students
 - [Liu Fang](/people/liu-fang)
