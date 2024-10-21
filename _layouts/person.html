@@ -50,9 +50,44 @@ layout: default
     font-size: 1.1rem;
     line-height: 1.6;
   }
+  .person-container {
+    margin-top: 2rem;
+  }
+  .person-content {
+    width: 100%;
+  }
+  .person-avatar-container {
+    float: right;
+    margin-left: 2rem;
+    margin-bottom: 1rem;
+    max-width: 300px;
+    width: 100%;
+  }
+  .person-intro {
+    overflow: hidden; /* 清除浮动 */
+  }
+  
 </style>
 
-<article class="person">
+<article class="person"></article>
+  <h1 class="person-name">{{ page.name_en }}</h1>
+  <p class="person-position">{{ page.position_en }}</p>
+  <p class="person-affiliation">{{ page.affiliation_en }}</p>
+  <div class="person-container">
+    <div class="person-content">
+      <div class="person-intro">
+        <div class="person-avatar-container">
+          <img src="{{ page.avatar }}" alt="{{ page.email }}" class="person-avatar">
+          <p class="person-avatar-caption">{{ page.email }}</p>
+        </div>
+        {{ page.intro }}
+      </div>
+    </div>
+  </div>
+  {{ content }}
+</article>
+
+<!-- <article class="person">
   <h1 class="person-name">{{ page.name_en }}</h1>
   <p class="person-position">{{ page.position_en }}</p>
   <p class="person-affiliation">{{ page.affiliation_en }}</p>
@@ -68,4 +103,4 @@ layout: default
     </div>
   </div>
   {{ content }}
-</article>
+</article> -->
