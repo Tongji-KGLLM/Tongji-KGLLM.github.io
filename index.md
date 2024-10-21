@@ -7,8 +7,17 @@ The Knowledge Graph and Large Language Model Lab at Tongji University is dedicat
 
 [Learn More](/about)
 
-## Latest News
 
-- [New Project Launch: Medical Domain Knowledge Graph Construction](/projects#medical-kg)
-- [Paper Accepted by ACL 2023](/publications#acl2023)
-- [Lab Member Awarded NSFC Grant](/news#nsfc-grant)
+
+## Latest News
+- [Upcoming Talk at CNCC: Exploring the Potential and Limitations of Large Language Models - Where are the Boundaries? (10/26)](https://mp.weixin.qq.com/s/020XW3DgypRcTZNbBw4gQQ)
+
+- [NLPCC 2024: International Conference on Natural Language Processing and Chinese Computing (11/ 1-3, Hangzhou)](https://mp.weixin.qq.com/s/y2pdL5BHnovjAofgM6pRJA?poc_token=HLpdFmejspDHVId_rGfaefCozNxrf1Ns22FF2eu1)
+
+
+- [Upcoming SIG Meetup: Building Intelligent Private Knowledge Bases with Graph Databases, Knowledge Graphs, and LLMs (11/9)](https://mp.weixin.qq.com/s/zwcuaVzyVFTalnN-_JZNzQ)
+
+
+## Recent Activities
+
+{% include image-carousel.html %}

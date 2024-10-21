@@ -1,0 +1,134 @@
+<div class="carousel">
+    <div class="carousel-main">
+      <img src="/assets/images/slide/s1.png" alt="Slide 1" class="active">
+      <img src="/assets/images/slide/s2.png" alt="Slide 2">
+      <img src="/assets/images/slide/s3.png" alt="Slide 3">
+      <img src="/assets/images/slide/s4.png" alt="Slide 4">
+      <img src="/assets/images/slide/s5.png" alt="Slide 5">
+      <img src="/assets/images/slide/s6.png" alt="Slide 6">
+      <img src="/assets/images/slide/s7.png" alt="Slide 7">
+    </div>
+    <div class="carousel-thumbnails">
+      <div class="thumbnail-inner">
+        <img src="/assets/images/slide/s1.png" alt="Thumbnail 1" class="active">
+        <img src="/assets/images/slide/s2.png" alt="Thumbnail 2">
+        <img src="/assets/images/slide/s3.png" alt="Thumbnail 3">
+        <img src="/assets/images/slide/s4.png" alt="Thumbnail 4">
+        <img src="/assets/images/slide/s5.png" alt="Thumbnail 5">
+        <img src="/assets/images/slide/s6.png" alt="Thumbnail 6">
+        <img src="/assets/images/slide/s7.png" alt="Thumbnail 7">
+      </div>
+    </div>
+    <button class="carousel-prev">&lt;</button>
+    <button class="carousel-next">&gt;</button>
+  </div>
+  
+  <style>
+    .carousel {
+      position: relative;
+      width: 100%;
+      max-width: 800px;
+      margin: 0 auto;
+      aspect-ratio: 16 / 9;
+    }
+    
+    .carousel-main {
+      width: 100%;
+      height: 100%;
+      overflow: hidden;
+    }
+    
+    .carousel-main img {
+      display: none;
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      object-position: center;
+    }
+    
+    .carousel-main img.active {
+      display: block;
+    }
+    
+    .carousel-thumbnails {
+      margin-top: 10px;
+      overflow: hidden;
+    }
+    
+    .thumbnail-inner {
+      display: flex;
+      transition: transform 0.3s ease-in-out;
+    }
+    
+    .carousel-thumbnails img {
+      width: calc(25% - 6px);
+      margin: 0 3px;
+      max-height: 60px;
+      object-fit: cover;
+      opacity: 0.6;
+      cursor: pointer;
+      transition: opacity 0.3s ease-in-out;
+    }
+    
+    .carousel-thumbnails img.active {
+      opacity: 1;
+    }
+    
+    .carousel-prev, .carousel-next {
+      position: absolute;
+      top: 50%;
+      transform: translateY(-50%);
+      background: rgba(0,0,0,0.5);
+      color: white;
+      border: none;
+      padding: 10px;
+      cursor: pointer;
+    }
+    
+    .carousel-prev {
+      left: 10px;
+    }
+    
+    .carousel-next {
+      right: 10px;
+    }
+  </style>
+  
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const carousel = document.querySelector('.carousel');
+      const mainImages = carousel.querySelectorAll('.carousel-main img');
+      const thumbnails = carousel.querySelectorAll('.carousel-thumbnails img');
+      const thumbnailInner = carousel.querySelector('.thumbnail-inner');
+      const prevBtn = carousel.querySelector('.carousel-prev');
+      const nextBtn = carousel.querySelector('.carousel-next');
+      let currentIndex = 0;
+  
+      function showSlide(index) {
+        mainImages.forEach(img => img.classList.remove('active'));
+        thumbnails.forEach(img => img.classList.remove('active'));
+        mainImages[index].classList.add('active');
+        thumbnails[index].classList.add('active');
+        thumbnailInner.style.transform = `translateX(-${Math.max(0, index - 1) * 33.333}%)`;
+      }
+  
+      thumbnails.forEach((thumbnail, index) => {
+        thumbnail.addEventListener('click', () => {
+          currentIndex = index;
+          showSlide(currentIndex);
+        });
+      });
+  
+      prevBtn.addEventListener('click', () => {
+        currentIndex = (currentIndex - 1 + mainImages.length) % mainImages.length;
+        showSlide(currentIndex);
+      });
+  
+      nextBtn.addEventListener('click', () => {
+        currentIndex = (currentIndex + 1) % mainImages.length;
+        showSlide(currentIndex);
+      });
+  
+      showSlide(currentIndex);
+    });
+  </script>
