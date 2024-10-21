@@ -4,13 +4,13 @@ title: About Us
 permalink: /about/
 ---
 
-# About Tongji-KGLLM Lab
+# About Knowledge Computing Lab
 
-The Knowledge Graph and Large Language Model Lab at Tongji University, established in 2020, is an academic team dedicated to cutting-edge research in artificial intelligence and natural language processing. Our research focuses include:
+The Knowledge Computing Lab (KCL) at Tongji University, founded by Prof. Haofen Wang in 2020, is an academic group committed to pioneering research in the fields of knowledge graphs and natural language processing. With an eye towards leveraging large language models (LLMs) and multimodal knowledge graphs, KCL aims to drive innovation in knowledge representation, extraction, and neuro-symbolic reasoning. Our mission is to harness the potential of knowledge in the era of LLMs and the research areas encompass:
 
-- Knowledge graph construction and application
-- Large-scale language model development
-- Multimodal learning
-- Intelligent question answering systems
+- Knowledge Graphs
+- Retrieval/Knowledge-Augmented Large Language Models
+- Multimodal Knowledge Reasoning
+- Intelligent Question Answering Systems
 
-Our goal is to advance AI technologies and apply them to various fields such as education, healthcare, and finance, creating value for society.
+Our goal is to evolve into a world-class laboratory, dedicated to propelling AI technologies forward and applying them across diverse domains such as education, healthcare, and finance, thereby generating significant value for society.
