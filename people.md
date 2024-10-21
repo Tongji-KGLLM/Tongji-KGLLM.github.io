@@ -10,6 +10,7 @@ permalink: /people/
 - [Wang Meng](/people/wang-meng)
 
 ## PhD Students
+
 - [Du Huifang](/people/du-huifang)
 - [Wang Siqi](/people/wang-siqi)
 - [Pan Fangyong](/people/Pan-fangyong)
