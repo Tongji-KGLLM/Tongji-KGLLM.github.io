@@ -5,6 +5,9 @@ permalink: /publications/
 ---
 
 ## 2024
+- Ye, Y. ,Ren, J. ,Wang, S. ,Wan, Y., Razzak, I., **Wang, H.**, Xie,T & Zhang,W. (2024). Construction and Application of MaterialsKnowledge Graph in Multidisciplinary MaterialsScience via Large Language Model. *The Thirty-eighth Annual Conference on Neural Information Processing Systems*. (**CCF A**)
+- Du, H., Li,S., Wu, M., Feng, X., Li, Y., &**Wang,H.**. (2024). Rewarding What Matters: Step-by-StepReinforcement Learning for Task-Oriented Dialogue. *The 2024 Conference on Empirical Methods in Natural Language Processing*.
+- Lin, Y., Ruan, T., Liu, J., & **Wang, H**. (2024). A survey on neural data-to-text generation. *IEEE Transactions on Knowledge and Data Engineering*.（**CCF A**）
 - Lin, Y., Ruan, T., Liu, J., & **Wang, H**. (2023). A survey on neural data-to-text generation. *IEEE Transactions on Knowledge and Data Engineering*.（**CCF A**）
 - Wang, S., Liang, C., Gao, Y., Yang, L., Li, J., & **Wang, H**. (2024). Decoding Urban Industrial Complexity: Enhancing Knowledge-Driven Insights via IndustryScopeGPT. *Proceedings of the 31st ACM International Conference on Multimedia*. (**CCF A**)
 - Hei, N., Guo, Q., Wang, Z., Wang, Y., **Wang, H**., & Zhang, W. (2024). A User-Friendly Framework for Generating Model-Preferred Prompts in Text-to-Image Synthesis. *Proceedings of the AAAI Conference on Artificial Intelligence*. (**CCF A**)
