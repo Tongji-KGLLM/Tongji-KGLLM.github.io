@@ -31,8 +31,8 @@ email: Email:haofen.want@tongji.edu.cn
 - PC Chair, the 10th International Joint Conference on Knowledge Graphs (IJCKG 2021)
 - Chair, the 6th Knowledge Graph Forum at the 2022 China Computer Congress (CNCC 2022)
 - Co-Editors-in-Chief: Data Intelligence
-- Guest Editor of Journals: Big Data Mining and Analytics, World Wide Web Journal, Communication of CCF,Intelligent Computing and Journal of Computer Research and Development.
-- Long-term PC member and Reviewers: TKDE, TOIS, TNNLS, IPM, KBS, JWS, WWW, NeurIPS, KDD, AAAI, IJCAI, ISWC ACM MM.
+- Guest Editor of Journals: Big Data Mining and Analytics, World Wide Web Journal, Communication of CCF, Intelligent Computing and Journal of Computer Research and Development.
+- Long-term PC member and Reviewers: TKDE, TOIS, TNNLS, IPM, KBS, JWS, WWW, NeurIPS, KDD, AAAI, IJCAI, ISWC, ACM MM.
 
 ## Publications
 Published over 170 high-level papers in the **Knowledge Graph**, **Natural Language Processing**, and other AI fields, with more than 4,000 citations. [[Selected Recent Papers]](/people/wang-haofen/publications/)
@@ -42,6 +42,8 @@ Published over 170 high-level papers in the **Knowledge Graph**, **Natural Langu
 - National Natural Science Project: **Research on Multi-hop Knowledge Question Answering Method Based on Explainable Neural Symbolic Reasoning**
 - National Natural Science Project: **Research on Efficient Query Methods for Large-scale Annotated Semantic Knowledge**
 - Other Ministry of Science and Technology Key R&D Projects, and 863 Major Projects.
+- Huawei Research Funds: **Knowledge-enhanced Personal Intelligent Assistant**
+- BMW Research Funds: **Knowledge Engine and Platform in Intelligent Cockpit**
 
 ## Open Source Projects
 
@@ -121,8 +123,8 @@ Published over 170 high-level papers in the **Knowledge Graph**, **Natural Langu
 - Keynote Speaker, the First International OpenKG Workshop Large Knowledge-Enhanced Models @IJCAI 2024[[Slides]](/assets/talks/IJCAI_2024.pdf)
 - Keynote Speaker, 2024 International Workshop on LLM+KG: Data Management Opportunities in Unifying Large Language Models+Knowledge Graphs @VLDB 2024[[Slides]](/assets/talks/VLDB_2024.pdf)
 - Keynote Speaker, 2023 IEEE International Symposium on Product Compliance Engineering-Asia (IEEE 2023 ISPCE-AS)
-- Keynote Speaker, the International Conference on Computational Linguistics and Natural Language Processing (CLNLP 2023)[[Slides]](/assets/talks/CLNLP_2023.pdf)
-- Keynote Speaker, 6th International Joint Conference, APWeb-WAIM 2022[[Slides]](/assets/talks/APWeb_2023.pdf)
+- Keynote Speaker, the International Conference on Computational Linguistics and Natural Language Processing (CLNLP 2023)[[Slides]](/assets/talks/CNLP_2023.pdf)
+- Keynote Speaker, 6th International Joint Conference, APWeb-WAIM 2022[[Slides]](/assets/talks/APWeb_2022.pdf)
 - Keynote Speaker, 2020 Machine Learning Summit
 
 ## Practical Applications
