@@ -4,7 +4,7 @@ name_en: Wang Haofen
 position_en: Distinguished Researcher, Doctoral Supervisor
 affiliation_en: College of Design and Innovation, Tongji University
 avatar: /assets/images/wang-haofen.jpg
-intro: Haofen Wang is a distinguished researcher and doctoral supervisor at the College of Design and Innovation, Tongji University. His research focuses on knowledge graphs. He leads the Knowledge Computing Lab at Tongji University, and is the leading founder of OpenKG, which is the largest Chinese knowledge graph community in the world. Currently, he holds important academic roles with the China Computer Federation (CCF), the Chinese Information Processing Society of China (CIPS), and the Shanghai Computer Federation, and has served as long-term PC member and reviewers for top journals and conferences on knowledge graphs and artificial intelligence, including TKDE, TOIS, TNNLS, IPM, KBS, JWS, WWW, NeurIPS, KDD, AAAI, IJCAI, ISWC, and ACM MM. Before joining Tongji, he served as CTO in leading AI companies, where he led a team in building an intelligent customer service robot based on knowledge graphs, that has served over 1 billion end-users. He has host several national natural science foundation projects, 863 major projects, and relevant projects supported by the Ministry of Science and Technology. He has published over 160 high-level papers, four books on knowledge graphs, with the book "Knowledge Graph Methods, Practices, and Applications" winning the 2019 Publication Award of Professional Category of 2020 China Industry and Information Technology Publishing& Media Group (4/8000). 
+intro: Haofen Wang is a distinguished researcher and doctoral supervisor at the College of Design and Innovation, Tongji University. His research focuses on knowledge graphs. He leads the Knowledge Computing Lab at Tongji University, and is the leading founder of OpenKG, which is the largest Chinese knowledge graph community in the world. Currently, he holds important academic roles with the China Computer Federation (CCF), the Chinese Information Processing Society of China (CIPS), and the Shanghai Computer Federation, and has served as long-term PC member and reviewers for top journals and conferences on knowledge graphs and artificial intelligence, including AAAI, ACM MM, ICLR, IJCAI, IPM, ISWC, JWS, KBS, KDD, NeurIPS, TKDE, TNNLS, TOIS, WWW. Before joining Tongji, he served as CTO in leading AI companies, where he led a team in building an intelligent customer service robot based on knowledge graphs, that has served over 1 billion end-users. He has host several national natural science foundation projects, 863 major projects, and relevant projects supported by the Ministry of Science and Technology. He has published over 100 high-level papers, four books on knowledge graphs, with the book "Knowledge Graph Methods, Practices, and Applications" winning the 2019 Publication Award of Professional Category of 2020 China Industry and Information Technology Publishing& Media Group (4/8000). 
 email: Email:&nbsp haofen.wang@tongji.edu.cn
 ---
 
@@ -12,7 +12,7 @@ email: Email:&nbsp haofen.wang@tongji.edu.cn
 
 - Knowledge Graphs
 - Retrieval-Augmented Large Language Models
-- AIGC (Artificial Intelligence Generated Content)
+- Domain-Specific LLMs
 
 ## Academic Roles:
 - Council Member of the Chinese Information Processing Society of China
@@ -32,7 +32,7 @@ email: Email:&nbsp haofen.wang@tongji.edu.cn
 - Chair, the 6th Knowledge Graph Forum at the 2022 China Computer Congress (CNCC 2022)
 - Co-Editors-in-Chief: Data Intelligence
 - Guest Editor of Journals: Big Data Mining and Analytics, World Wide Web Journal, Communication of CCF, Intelligent Computing and Journal of Computer Research and Development.
-- Long-term PC member and Reviewers:  AAAI, ACM MM, ICLR, IJCAI, IPM, ISWC, JWS, KBS, KDD, NeurIPS, TKDE, TNNLS, TOIS, WWW.
+- Long-term PC member and Reviewers: AAAI, ACM MM, ICLR, IJCAI, IPM, ISWC, JWS, KBS, KDD, NeurIPS, TKDE, TNNLS, TOIS, WWW.
 
 ## Publications
 Published over 100 high-level papers in the **Knowledge Graph**, **Natural Language Processing**, and other AI fields, with more than 4,000 citations. [[Selected Recent Papers]](/people/wang-haofen/publications/)
