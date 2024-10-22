@@ -12,7 +12,7 @@ email: Email:&nbsp haofen.wang@tongji.edu.cn
 
 - Knowledge Graphs
 - Retrieval-Augmented Large Language Models
-- Domain-Specific LLMs
+- Neuro-Symbolic Integration
 
 ## Academic Roles:
 - Council Member of the Chinese Information Processing Society of China
