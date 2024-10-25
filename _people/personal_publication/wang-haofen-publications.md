@@ -24,7 +24,7 @@ permalink: /people/wang-haofen/publications/
 
 
 ## 2023
-- Gao, Y., Xiong, Y., Gao, X., Jia, K., Pan, J., Bi, Y., ... & **Wang, H**. (2023). Retrieval-augmented generation for large language models: A survey. arXiv preprint arXiv:2312.10997. (**600+ Citations**)
+- Gao, Y., Xiong, Y., Gao, X., Jia, K., Pan, J., Bi, Y., ... & **Wang, H**. (2023). Retrieval-augmented generation for large language models: A survey. arXiv preprint arXiv:2312.10997. (**700+ Citations**)
 - Liu, M., Zhao, C., Peng, X., Yu, S., **Wang, H**., & Sha, C. (2023). Task-oriented ml/dl library recommendation based on a knowledge graph. *IEEE Transactions on Software Engineering*, 49(8), 4081-4096. (**CCF A**)
 - Li, S., Zhang, T., & Wang, H. (2023). KG-BERT: A Novel Approach for Integrating Knowledge Graphs into BERT for Enhanced NLP Tasks. In *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics*. (**CCF A**)
 - Chen, X., Xiong, Y., Wang, S., **Wang, H**., Sheng, T., Zhang, Y., & Ye, Y. (2023). ReCo: A dataset for residential community layout planning. *Proceedings of the 31st ACM International Conference on Multimedia*. (**CCF A**)
