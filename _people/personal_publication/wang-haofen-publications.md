@@ -8,13 +8,19 @@ permalink: /people/wang-haofen/publications/
   <a href="/people/wang-haofen/">Back to Personal Page</a>
 </div>
 
+## 2025
+- Wang, G., Wang, W., Cao, Y., Teng, Y., Guo, Q.,**Wang, H.**, ... & Wang, Y. (2025). Possibilities and challenges in the moral growth of large language models: a philosophical perspective. Ethics and Information Technology, 27(1), 9.
+- Sheng, T., Xiong, Y., **Wang, H.**, Zhang, Y., Wang, S., & Zhang, W. (2024). Deep reinforcement learning for community architectural layout generation. Knowl. Inf. Syst., 67, 2453-2480.
+- **Wang, H.**, Khan, A., Liu, J., & Witbrock, M. (2025). Guest Editorial: Special issue on “Neuro-Symbolic Intelligence: large Language Model enabled Knowledge Engineering”. World Wide Web, 28(1), 14.
+- Hu, X., Shan, Z., Zhao, X., Sun, Z., Liu, Z., Li, D., Ye, S., Wei, X., Chen, Q., Hu, B., **Wang, H.**, Yu, J., & Zhang, M. (2025). KaLM-Embedding: Superior Training Data Brings A Stronger Embedding Model. ArXiv, abs/2501.01028.
+
 ## 2024
 - Ye, Y. ,Ren, J. ,Wang, S. ,Wan, Y., Razzak, I., **Wang, H.**, Xie,T & Zhang,W. (2024). Construction and Application of Materials Knowledge Graph in Multidisciplinary MaterialsScience via Large Language Model. *The Thirty-eighth Annual Conference on Neural Information Processing Systems*. (**CCF A**)
 - Du, H., Li,S., Wu, M., Feng, X., Li, Y., & **Wang, H**. (2024). Rewarding What Matters: Step-by-Step Reinforcement Learning for Task-Oriented Dialogue. *The 2024 Conference on Empirical Methods in Natural Language Processing*.
 - Lin, Y., Ruan, T., Liu, J., & **Wang, H**. (2024). A survey on neural data-to-text generation. *IEEE Transactions on Knowledge and Data Engineering*.（**CCF A**）
 - Wang, S., Liang, C., Gao, Y., Yang, L., Li, J., & **Wang, H**. (2024). Decoding Urban Industrial Complexity: Enhancing Knowledge-Driven Insights via IndustryScopeGPT. *Proceedings of the 31st ACM International Conference on Multimedia*. (**CCF A**)
 - Hei, N., Guo, Q., Wang, Z., Wang, Y., **Wang, H**., & Zhang, W. (2024). A User-Friendly Framework for Generating Model-Preferred Prompts in Text-to-Image Synthesis. *Proceedings of the AAAI Conference on Artificial Intelligence*. (**CCF A**)
-- Liu, L., Du, H., Zhang, X., Guo, M., Wang, H., & Wang, M. (2024). A Question-Answering Assistant over Personal Knowledge Graph. *Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval*. (**CCF A**)
+- Liu, L., Du, H., Zhang, X., Guo, M., **Wang, H.**, & Wang, M. (2024). A Question-Answering Assistant over Personal Knowledge Graph. *Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval*. (**CCF A**)
 - Du, H., Feng, X., Ma, J., Wang, M., Tao, S., Zhong, Y., ... & **Wang, H**. (2024). Towards Proactive Interactions for In-Vehicle Conversational Assistants Utilizing Large Language Models. *Proceedings of the 33rd International Joint Conference on Artificial Intelligence*. (**CCF A**)
 - Du, H., Tao, S., Feng, X., Ma, J., & **Wang, H**. (2024). From Passive to Active: Towards Conversational In-Vehicle Navigation Through Large Language Models. *International Conference on Human-Computer Interaction*. (**Best Paper Award**)
 - Sun, H., Tian, P., Xiong, Y., Zhang, Y., Xiang, Y., Jia, X., & **Wang, H**. (2024). Dynamise: dynamic signed network embedding for link prediction. *Machine Learning*, 113(7), 4037-4053.
