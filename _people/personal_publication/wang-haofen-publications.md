@@ -14,8 +14,8 @@ permalink: /people/wang-haofen/publications/
 - **Wang, H.**, Khan, A., Liu, J., & Witbrock, M. (2025). Guest Editorial: Special issue on “Neuro-Symbolic Intelligence: large Language Model enabled Knowledge Engineering”. World Wide Web, 28(1), 14.
 - Hu, X., Shan, Z., Zhao, X., Sun, Z., Liu, Z., Li, D., Ye, S., Wei, X., Chen, Q., Hu, B., **Wang, H.**, Yu, J., & Zhang, M. (2025). KaLM-Embedding: Superior Training Data Brings A Stronger Embedding Model. ArXiv, abs/2501.01028.
 - Wang, S., Zhao, X., Qiu, J., **Wang, H.**, & Tao, C. (2024). WDCIP: spatio-temporal AI-driven disease control intelligent platform for combating COVID-19 pandemic. Geo-spatial Information Science, 27(6), 2023-2047.
-- Zhang, W., Wang, J., Chen, C., Lu, W., Du, W., Wang, H., Liu, J., & Ruan, T. (2024). A Bidirectional Extraction-Then-Evaluation Framework for Complex Relation Extraction. IEEE Transactions on Knowledge and Data Engineering, 36, 7442-7454.
-- Wu, F., Liu, L., He, W., Liu, Z., Zhang, Z., Wang, H., & Wang, M. (2024). Time-Sensitve Retrieval-Augmented Generation for Question Answering. International Conference on Information and Knowledge Management.
+- Zhang, W., Wang, J., Chen, C., Lu, W., Du, W., **Wang, H.**, Liu, J., & Ruan, T. (2024). A Bidirectional Extraction-Then-Evaluation Framework for Complex Relation Extraction. IEEE Transactions on Knowledge and Data Engineering, 36, 7442-7454.
+- Wu, F., Liu, L., He, W., Liu, Z., Zhang, Z., **Wang, H.**, & Wang, M. (2024). Time-Sensitve Retrieval-Augmented Generation for Question Answering. International Conference on Information and Knowledge Management.
 - 
 ## 2024
 - Ye, Y. ,Ren, J. ,Wang, S. ,Wan, Y., Razzak, I., **Wang, H.**, Xie,T & Zhang,W. (2024). Construction and Application of Materials Knowledge Graph in Multidisciplinary MaterialsScience via Large Language Model. *The Thirty-eighth Annual Conference on Neural Information Processing Systems*. (**CCF A**)
