@@ -16,7 +16,6 @@ permalink: /people/wang-haofen/publications/
 - Wu, F., Liu, L., He, W., Liu, Z., Zhang, Z., **Wang, H.**, & Wang, M. (2024). Time-Sensitve Retrieval-Augmented Generation for Question Answering. International Conference on Information and Knowledge Management.
 - Gao, X., Xiong, Y., Wang, D., Guan, Z., Shi, Z., **Wang, H.**, & Li, S. (2024). Preference-Guided Refactored Tuning for Retrieval Augmented Code Generation. 2024 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), 65-77. (**CCF A**)
 - Guo, Q., Ren, J., **Wang, H.**, Wu, T., Ge, W., & Zhang, W. (2024). Visual-Language Collaborative Representation Network for Broad-Domain Few-Shot Image Classification. ACM Multimedia. (**CCF A**)
-- Wang, S., Liang, C., Gao, Y., Liu, Y., Li, J., & **Wang, H.** (2024). Decoding Urban Industrial Complexity: Enhancing Knowledge-Driven Insights via IndustryScopeGPT. ArXiv, abs/2411.15758.
 - **Wang, H.**, Chowdhury, S.M., & Jin, W. (2024). Wikipedia Empowered Natural Language Interface for Web Search. WISE.
 - Jin, C., Yang, S., Shang, X.,**Wang, H.**, & Zhang, Y. (Eds.). (2024). Web Information Systems and Applications: 21st International Conference, WISA 2024, Yinchuan, China, August 2–4, 2024, Proceedings (Vol. 14883). Springer Nature.
 - Wang, X., Chen, Z., **Wang, H.**, Li, Z., & Guo, W. (2024). Large Language Model Enhanced Knowledge Representation Learning: A Survey. CoRR.
