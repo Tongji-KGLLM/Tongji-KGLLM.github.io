@@ -10,14 +10,20 @@ permalink: /people/wang-haofen/publications/
 
 ## 2025
 - Wang, G., Wang, W., Cao, Y., Teng, Y., Guo, Q.,**Wang, H.**, ... & Wang, Y. (2025). Possibilities and challenges in the moral growth of large language models: a philosophical perspective. Ethics and Information Technology, 27(1), 9.
-- Sheng, T., Xiong, Y., **Wang, H.**, Zhang, Y., Wang, S., & Zhang, W. (2024). Deep reinforcement learning for community architectural layout generation. Knowl. Inf. Syst., 67, 2453-2480.
 - **Wang, H.**, Khan, A., Liu, J., & Witbrock, M. (2025). Guest Editorial: Special issue on “Neuro-Symbolic Intelligence: large Language Model enabled Knowledge Engineering”. World Wide Web, 28(1), 14.
-- Hu, X., Shan, Z., Zhao, X., Sun, Z., Liu, Z., Li, D., Ye, S., Wei, X., Chen, Q., Hu, B., **Wang, H.**, Yu, J., & Zhang, M. (2025). KaLM-Embedding: Superior Training Data Brings A Stronger Embedding Model. ArXiv, abs/2501.01028.
-- Wang, S., Zhao, X., Qiu, J., **Wang, H.**, & Tao, C. (2024). WDCIP: spatio-temporal AI-driven disease control intelligent platform for combating COVID-19 pandemic. Geo-spatial Information Science, 27(6), 2023-2047.
-- Zhang, W., Wang, J., Chen, C., Lu, W., Du, W., **Wang, H.**, Liu, J., & Ruan, T. (2024). A Bidirectional Extraction-Then-Evaluation Framework for Complex Relation Extraction. IEEE Transactions on Knowledge and Data Engineering, 36, 7442-7454.
-- Wu, F., Liu, L., He, W., Liu, Z., Zhang, Z., **Wang, H.**, & Wang, M. (2024). Time-Sensitve Retrieval-Augmented Generation for Question Answering. International Conference on Information and Knowledge Management.
-- 
+
 ## 2024
+- Wu, F., Liu, L., He, W., Liu, Z., Zhang, Z., **Wang, H.**, & Wang, M. (2024). Time-Sensitve Retrieval-Augmented Generation for Question Answering. International Conference on Information and Knowledge Management.
+- Gao, X., Xiong, Y., Wang, D., Guan, Z., Shi, Z., **Wang, H.**, & Li, S. (2024). Preference-Guided Refactored Tuning for Retrieval Augmented Code Generation. 2024 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), 65-77. (**CCF A**)
+- Guo, Q., Ren, J., **Wang, H.**, Wu, T., Ge, W., & Zhang, W. (2024). Visual-Language Collaborative Representation Network for Broad-Domain Few-Shot Image Classification. ACM Multimedia. (**CCF A**)
+- Wang, S., Liang, C., Gao, Y., Liu, Y., Li, J., & **Wang, H.** (2024). Decoding Urban Industrial Complexity: Enhancing Knowledge-Driven Insights via IndustryScopeGPT. ArXiv, abs/2411.15758.
+- **Wang, H.**, Chowdhury, S.M., & Jin, W. (2024). Wikipedia Empowered Natural Language Interface for Web Search. WISE.
+- Jin, C., Yang, S., Shang, X.,**Wang, H.**, & Zhang, Y. (Eds.). (2024). Web Information Systems and Applications: 21st International Conference, WISA 2024, Yinchuan, China, August 2–4, 2024, Proceedings (Vol. 14883). Springer Nature.
+- Wang, X., Chen, Z., **Wang, H.**, Li, Z., & Guo, W. (2024). Large Language Model Enhanced Knowledge Representation Learning: A Survey. CoRR.
+- Liu, M., Hu, W., Ding, J., Xu, J., Li, X., Zhu, L., **Wang, H.**, ... & Zhang, S. (2024). Medbench: A comprehensive, standardized, and reliable benchmarking system for evaluating chinese medical large language models. Big Data Mining and Analytics, 7(4), 1116-1128.
+- Zhang, W., Wang, J., Chen, C., Lu, W., Du, W., **Wang, H.**, Liu, J., & Ruan, T. (2024). A Bidirectional Extraction-Then-Evaluation Framework for Complex Relation Extraction. IEEE Transactions on Knowledge and Data Engineering, 36, 7442-7454. (**CCF A**)
+- Wang, S., Zhao, X., Qiu, J., **Wang, H.**, & Tao, C. (2024). WDCIP: spatio-temporal AI-driven disease control intelligent platform for combating COVID-19 pandemic. Geo-spatial Information Science, 27(6), 2023-2047.
+- Sheng, T., Xiong, Y., **Wang, H.**, Zhang, Y., Wang, S., & Zhang, W. (2024). Deep reinforcement learning for community architectural layout generation. Knowl. Inf. Syst., 67, 2453-2480.
 - Ye, Y. ,Ren, J. ,Wang, S. ,Wan, Y., Razzak, I., **Wang, H.**, Xie,T & Zhang,W. (2024). Construction and Application of Materials Knowledge Graph in Multidisciplinary MaterialsScience via Large Language Model. *The Thirty-eighth Annual Conference on Neural Information Processing Systems*. (**CCF A**)
 - Du, H., Li,S., Wu, M., Feng, X., Li, Y., & **Wang, H**. (2024). Rewarding What Matters: Step-by-Step Reinforcement Learning for Task-Oriented Dialogue. *The 2024 Conference on Empirical Methods in Natural Language Processing*.
 - Lin, Y., Ruan, T., Liu, J., & **Wang, H**. (2024). A survey on neural data-to-text generation. *IEEE Transactions on Knowledge and Data Engineering*.（**CCF A**）
