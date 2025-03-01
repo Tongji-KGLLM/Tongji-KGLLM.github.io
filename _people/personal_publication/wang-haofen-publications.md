@@ -13,7 +13,6 @@ permalink: /people/wang-haofen/publications/
 - Ye, Y., Ren, J., Wang, S., Wan, Y., Razzak, I., Hoex, B.,**Wang, H.**, ... & Zhang, W. (2025). Construction and Application of Materials Knowledge Graph in Multidisciplinary Materials Science via Large Language Model. Advances in Neural Information Processing Systems, 37, 56878-56897. (**CCF A**)
 - **Wang, H.**, Khan, A., Liu, J., & Witbrock, M. (2025). Guest Editorial: Special issue on “Neuro-Symbolic Intelligence: large Language Model enabled Knowledge Engineering”. World Wide Web, 28(1), 14.
 - Wang, G., Wang, W., Cao, Y., Teng, Y., Guo, Q.,**Wang, H.**, ... & Wang, Y. (2025). Possibilities and challenges in the moral growth of large language models: a philosophical perspective. Ethics and Information Technology, 27(1), 9.
-- **Wang, H.**, Khan, A., Liu, J., & Witbrock, M. (2025). Guest Editorial: Special issue on “Neuro-Symbolic Intelligence: large Language Model enabled Knowledge Engineering”. World Wide Web, 28(1), 14.
 
 ## 2024
 - Liu, J., Tian, X., Tong, H., Xie, C., Ruan, T., Cong, L., ... & **Wang, H.** (2024). Enhancing Chinese abbreviation prediction with LLM generation and contrastive evaluation. Information Processing & Management, 61(4), 103768. (**CCF A**)
