@@ -9,7 +9,7 @@ email: Email:&nbsp haofen.wang@tongji.edu.cn
 ---
 ## Education Experience:
 
-- 2007-09 to 2013-12, Shanghai Jiao Tong University, Computer Science and Engineering, Doctor
+- 2007-09 to 2013-12, Shanghai Jiao Tong University, Computer Science and Engineering, PhD
 - 2005-09 to 2007-06, Shanghai Jiao Tong University, Computer Science and Engineering, Master
 - 2001-09 to 2005-06, Shanghai Jiao Tong University, Computer Science and Engineering, Bachelor
 
