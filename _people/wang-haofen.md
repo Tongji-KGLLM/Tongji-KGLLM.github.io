@@ -7,6 +7,20 @@ avatar: /assets/images/wang-haofen.jpg
 intro: Haofen Wang is a distinguished researcher and doctoral supervisor at the College of Design and Innovation, Tongji University. His research focuses on knowledge graphs. He leads the Knowledge Computing Lab at Tongji University, and is the leading founder of OpenKG, which is the largest Chinese knowledge graph community in the world. Currently, he holds important academic roles with the China Computer Federation (CCF), the Chinese Information Processing Society of China (CIPS), and the Shanghai Computer Federation, and has served as long-term PC member and reviewers for top journals and conferences on knowledge graphs and artificial intelligence, including AAAI, ACM MM, ICLR, IJCAI, IPM, ISWC, JWS, KBS, KDD, NeurIPS, TKDE, TNNLS, TOIS, WWW. Before joining Tongji, he served as CTO in leading AI companies, where he led a team in building an intelligent customer service robot based on knowledge graphs, that has served over 1 billion end-users. He has host several national natural science foundation projects, 863 major projects, and relevant projects supported by the Ministry of Science and Technology. He has published over 100 high-level papers, four books on knowledge graphs, with the book "Knowledge Graph Methods, Practices, and Applications" winning the 2019 Publication Award of Professional Category of 2020 China Industry and Information Technology Publishing& Media Group (4/8000). 
 email: Email:&nbsp haofen.wang@tongji.edu.cn
 ---
+## Education Experience:
+
+- September 2007 to December 2013, Shanghai Jiao Tong University, Computer Science and Engineering, Doctor
+- September 2005 to June 2007, Shanghai Jiao Tong University, Computer Science and Engineering, Master
+- September 2001 to June 2005, Shanghai Jiao Tong University, Computer Science and Engineering, Bachelor
+
+## Work Experience after Doctorate:
+
+## Research and Academic Work Experience (excluding work experience after doctorate):
+
+- September 2019 to Present, Tongji University, Design and Innovation College, Researcher
+- July 2018 to August 2019, Shanghai LeYan Information Technology Co., Ltd., Technology Department, None
+- February 2017 to June 2018, Shenzhen Dogtail Grass Intelligent Technology Co., Ltd., Technology Department, None
+- January 2014 to January 2017, East China University of Science and Technology, Information College Computer Science and Engineering Department, Lecturer
 
 ## Research Interests
 
@@ -17,12 +31,15 @@ email: Email:&nbsp haofen.wang@tongji.edu.cn
 ## Academic Roles:
 - Council Member of the Chinese Information Processing Society of China
 - Secretary-General, China Computer Federation Technical Committee Natural Language Processing
+- Professional Committee of Natural Language Processing of China Computer Federation
+- Professional Committee of the Large Model and Generation of the Chinese Information Processing Society
 - Deputy Secretary-General, Professional Committee of Language and Knowledge Computing of Chinese Information Processing Society
 - Deputy Director, China Computer Federation Committee on Terminology
 - Chairman, China Computer Federation Technical SIGKG
 - Chair of OpenKG Technical Oversight Committee
 - Deputy Director, Shanghai Computer Federation Technical Committee Natural Language Processing
 - General Chair, LKM2024 (The first International Workshop on Large Knowledge-enhance Model, in conjucntion with IJCAI2024)
+- PC Chair, the 2025 Conference on Asian Chapter of the Association for Computational Linguistics and International Joint Conference on Natural Language Processing (AACL-IJCNLP 2025)
 - PC Chair, the 2024 Web Information Systems and Applications (WISA 2024) 
 - General Chair, the 17th China Conference on Knowledge Graph and Semantic Computing (CCKS 2023) 
 - General Chair, the 11th International Joint Conference on Knowledge Graphs (IJCKG 2022)
@@ -35,7 +52,7 @@ email: Email:&nbsp haofen.wang@tongji.edu.cn
 - Long-term PC member and Reviewers: AAAI, ACM MM, ICLR, IJCAI, IPM, ISWC, JWS, KBS, KDD, NeurIPS, TKDE, TNNLS, TOIS, WWW.
 
 ## Publications
-Published over 100 high-level papers in the **Knowledge Graph**, **Natural Language Processing**, and other AI fields, with more than 4,500 citations. [[Selected Recent Papers]](/people/wang-haofen/publications/)
+Published over 100 high-level papers in the **Knowledge Graph**, **Natural Language Processing**, and other AI fields, with more than 5,600 citations. [[Selected Recent Papers]](/people/wang-haofen/publications/)
 
 ## Research Grants
 - National Natural Science Key Project: **Research on the Technology of Building Large-scale Knowledge Computing Platform**
@@ -109,7 +126,7 @@ Published over 100 high-level papers in the **Knowledge Graph**, **Natural Langu
 
 
 ## Awards
-- Special Prize, China Transportation Association Science and Technology Award in 2024
+- First Award, China Transportation Association Science and Technology Award in 2024
 - Best Paper, the 26th International Conference on Human-Computer Interaction (HCII 2024)
 - Best Paper, 2021 China Health Information Processing Conference (CHIP 2021)
 - Best Paper, the 5th Joint International Semantic Technology Conference (JIST 2015)
@@ -117,7 +134,7 @@ Published over 100 high-level papers in the **Knowledge Graph**, **Natural Langu
 - Shanghai Excellent Doctoral Dissertation Award in 2016
 - Best Datathon Result at the 1st Summer Datathon on Linguistic Linking Open Data (SD-LLOD-15) in 2015
 
-## Talks:
+## Selected Talks:
 
 - Keynote Speaker, "Theoretical Innovations and New Research Paradigms of Knowledge Graphs in the Era of Large Language Models", the First International OpenKG Workshop Large Knowledge-Enhanced Models @IJCAI 2024 [[Slides]](/assets/talks/IJCAI_2024.pdf)
 - Keynote Speaker, "Industry-level Knowledge Graph Platform for Large-scale, Diverse and Dynamic Scenarios", 2024 International Workshop on LLM+KG: Data Management Opportunities in Unifying Large Language Models+Knowledge Graphs @VLDB 2024 [[Slides]](/assets/talks/VLDB_2024.pdf)
