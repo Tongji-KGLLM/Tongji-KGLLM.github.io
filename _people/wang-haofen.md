@@ -13,13 +13,11 @@ email: Email:&nbsp haofen.wang@tongji.edu.cn
 - September 2005 to June 2007, Shanghai Jiao Tong University, Computer Science and Engineering, Master
 - September 2001 to June 2005, Shanghai Jiao Tong University, Computer Science and Engineering, Bachelor
 
-## Work Experience after Doctorate:
-
-## Research and Academic Work Experience (excluding work experience after doctorate):
+## Research and Academic Work Experience:
 
 - September 2019 to Present, Tongji University, Design and Innovation College, Researcher
-- July 2018 to August 2019, Shanghai LeYan Information Technology Co., Ltd., Technology Department, None
-- February 2017 to June 2018, Shenzhen Dogtail Grass Intelligent Technology Co., Ltd., Technology Department, None
+- July 2018 to August 2019, Shanghai LeYan Information Technology Co., Ltd., Technology Department, CTO
+- February 2017 to June 2018, Shenzhen Dogtail Grass Intelligent Technology Co., Ltd., Technology Department, CTO
 - January 2014 to January 2017, East China University of Science and Technology, Information College Computer Science and Engineering Department, Lecturer
 
 ## Research Interests
