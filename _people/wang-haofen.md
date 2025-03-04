@@ -124,7 +124,7 @@ Published over 100 high-level papers in the **Knowledge Graph**, **Natural Langu
 
 
 ## Awards
-- First Award, China Transportation Association Science and Technology Award in 2024
+- First Prize, China Transportation Association Science and Technology Award in 2024
 - Best Paper, the 26th International Conference on Human-Computer Interaction (HCII 2024)
 - Best Paper, 2021 China Health Information Processing Conference (CHIP 2021)
 - Best Paper, the 5th Joint International Semantic Technology Conference (JIST 2015)
