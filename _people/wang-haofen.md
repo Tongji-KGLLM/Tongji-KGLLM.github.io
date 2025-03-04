@@ -9,11 +9,11 @@ email: |
   Email: haofen.wang@tongji.edu.cn
   Google Scholar: https://scholar.google.com.hk/citations?user=1FhdXpsAAAAJ
   DBLP: https://dblp.unitrier.de/pid/63/4317.html
-  
+---
 <div>
   <p>{{ page.email | newline_to_br }}</p>
 </div>
----
+
 ## Education Experience:
 
 - 2007-09 to 2013-12, Shanghai Jiao Tong University, Computer Science and Engineering, PhD
