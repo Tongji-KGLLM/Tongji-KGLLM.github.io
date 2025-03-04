@@ -30,9 +30,8 @@ intro: Haofen Wang is a distinguished researcher and doctoral supervisor at the 
 
 ## Academic Roles:
 - Council Member of the Chinese Information Processing Society of China
-- Secretary-General, China Computer Federation Technical Committee Natural Language Processing
-- Professional Committee of Natural Language Processing of China Computer Federation
-- Professional Committee of the Large Model and Generation of the Chinese Information Processing Society
+- Secretary-General, Professional Committee of Natural Language Processing of China Computer Federation
+- Standing Committee Member, Professional Committee of the Large Model and Generation of the Chinese Information Processing Society
 - Deputy Secretary-General, Professional Committee of Language and Knowledge Computing of Chinese Information Processing Society
 - Deputy Director, China Computer Federation Committee on Terminology
 - Chairman, China Computer Federation Technical SIGKG
@@ -138,10 +137,8 @@ Published over 100 high-level papers in the **Knowledge Graph**, **Natural Langu
 
 - Keynote Speaker, "Theoretical Innovations and New Research Paradigms of Knowledge Graphs in the Era of Large Language Models", the First International OpenKG Workshop Large Knowledge-Enhanced Models @IJCAI 2024 [[Slides]](/assets/talks/IJCAI_2024.pdf)
 - Keynote Speaker, "Industry-level Knowledge Graph Platform for Large-scale, Diverse and Dynamic Scenarios", 2024 International Workshop on LLM+KG: Data Management Opportunities in Unifying Large Language Models+Knowledge Graphs @VLDB 2024 [[Slides]](/assets/talks/VLDB_2024.pdf)
-- Keynote Speaker, 2023 IEEE International Symposium on Product Compliance Engineering-Asia (IEEE 2023 ISPCE-AS)
 - Keynote Speaker, "Towards Intelligent Systems Driven by Knowledge Graph and Large Language Model", the International Conference on Computational Linguistics and Natural Language Processing (CLNLP 2023) [[Slides]](/assets/talks/CNLP_2023.pdf)
 - Keynote Speaker, "Emerging Technologies of Knowledge Graph in the Big Data Era", 6th International Joint Conference, APWeb-WAIM 2022 [[Slides]](/assets/talks/APWeb_2022.pdf)
-- Keynote Speaker, 2020 Machine Learning Summit
 
 ## Practical Applications
 
