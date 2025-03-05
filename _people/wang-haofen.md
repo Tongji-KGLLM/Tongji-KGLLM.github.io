@@ -38,7 +38,7 @@ intro: Haofen Wang is a distinguished researcher and doctoral supervisor at the 
 - Chair of OpenKG Technical Oversight Committee
 - Deputy Director, Shanghai Computer Federation Technical Committee Natural Language Processing
 - General Chair, LKM2024 (The first International Workshop on Large Knowledge-enhance Model, in conjucntion with IJCAI2024)
-- PC Chair, the 2025 Conference on Asian Chapter of the Association for Computational Linguistics and International Joint Conference on Natural Language Processing (AACL-IJCNLP 2025)
+- PC Chair, 14th International Joint Conference on Natural Language Processing and the 4th Conference on Asian Chapter of the Association for Computational Linguistics (IJCNLP-AACL 2025)
 - PC Chair, the 2024 Web Information Systems and Applications (WISA 2024) 
 - General Chair, the 17th China Conference on Knowledge Graph and Semantic Computing (CCKS 2023) 
 - General Chair, the 11th International Joint Conference on Knowledge Graphs (IJCKG 2022)
