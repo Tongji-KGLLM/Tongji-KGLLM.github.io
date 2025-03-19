@@ -51,7 +51,7 @@ intro: Haofen Wang is a distinguished researcher and doctoral supervisor at the 
 - Long-term PC member and Reviewers: AAAI, ACM MM, ICLR, IJCAI, IPM, ISWC, JWS, KBS, KDD, NeurIPS, TKDE, TNNLS, TOIS, WWW.
 
 ## Publications
-Published over 100 high-level papers in the **Knowledge Graph**, **Natural Language Processing**, and other AI fields, with more than 5,600 citations. [[Selected Recent Papers]](/people/wang-haofen/publications/)
+Published over 100 high-level papers in the **Knowledge Graph**, **Natural Language Processing**, and other AI fields, with more than 7,500 citations. [[Selected Recent Papers]](/people/wang-haofen/publications/)
 
 ## Recent Research Grants
 - National Natural Science Key Project: **Research on the Technology of Building Large-scale Knowledge Computing Platform**
