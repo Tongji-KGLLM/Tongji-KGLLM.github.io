@@ -9,6 +9,10 @@ The knowledge computing lab of Tongji University is dedicated to cutting edge re
 
 
 ## Latest News
+-[Tencent Cloud Valuable Professional(TVP) Seminar 2025: The Era of Agentic RAG:DeepSeek drives knowledge retrieval enhancement with upgraded reasoning models](https://mp.weixin.qq.com/s/020XW3DgypRcTZNbBw4gQQ)
+
+-[DataFun Summit 2025: KG+LLM: Reconstructing and Evolving Knowledge Graphs through Large Language Models](https://mp.weixin.qq.com/s/020XW3DgypRcTZNbBw4gQQ)
+
 - [Upcoming Talk at CNCC: Exploring the Potential and Limitations of Large Language Models - Where are the Boundaries? (10/26)](https://mp.weixin.qq.com/s/020XW3DgypRcTZNbBw4gQQ)
 
 - [NLPCC 2024: International Conference on Natural Language Processing and Chinese Computing (11/1-3)](https://mp.weixin.qq.com/s/y2pdL5BHnovjAofgM6pRJA?poc_token=HLpdFmejspDHVId_rGfaefCozNxrf1Ns22FF2eu1)
