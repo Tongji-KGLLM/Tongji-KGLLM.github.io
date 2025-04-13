@@ -133,7 +133,8 @@ Published over 100 high-level papers in the **Knowledge Graph**, **Natural Langu
 - Best Datathon Result at the 1st Summer Datathon on Linguistic Linking Open Data (SD-LLOD-15) in 2015
 
 ## Selected Talks:
-- "Agentic RAG Era: DeepSeek Leads Knowledge Retrieval Augmentation with Upgraded Reasoning Models" [[Slides]](/assets/talks/融合推理的知识检索增强.pdf)
+- Keynote Speaker, “KG+LLM: Reconstructing and Evolving Knowledge Graphs through Large Language Models”. DataFun Summit 2025. [[Slides]](/assets/talks/DataFun_Summit_2025.pdf)
+- Keynote Speaker, “The Era of Agentic RAG:DeepSeek drives knowledge retrieval enhancement with upgraded reasoning models”. Tencent Cloud Valuable Professional(TVP) Seminar 2025. [[Slides]](/assets/talks/融合推理的知识检索增强.pdf)
 - Keynote Speaker, "Theoretical Innovations and New Research Paradigms of Knowledge Graphs in the Era of Large Language Models", the First International OpenKG Workshop Large Knowledge-Enhanced Models @IJCAI 2024 [[Slides]](/assets/talks/IJCAI_2024.pdf)
 - Keynote Speaker, "Industry-level Knowledge Graph Platform for Large-scale, Diverse and Dynamic Scenarios", 2024 International Workshop on LLM+KG: Data Management Opportunities in Unifying Large Language Models+Knowledge Graphs @VLDB 2024 [[Slides]](/assets/talks/VLDB_2024.pdf)
 - Keynote Speaker, "Towards Intelligent Systems Driven by Knowledge Graph and Large Language Model", the International Conference on Computational Linguistics and Natural Language Processing (CLNLP 2023) [[Slides]](/assets/talks/CNLP_2023.pdf)
