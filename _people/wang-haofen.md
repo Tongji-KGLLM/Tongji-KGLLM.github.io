@@ -2,31 +2,31 @@
 layout: person
 name_en: 王昊奋
 position_en: 特聘研究员，博士生导师
-affiliation_en: College of Design and Innovation, Tongji University
+affiliation_en: 同济大学设计创意学院
 avatar: /assets/images/wang-haofen.jpg
-intro: Haofen Wang is a distinguished researcher and doctoral supervisor at the College of Design and Innovation, Tongji University. His research focuses on knowledge graphs. He leads the Knowledge Computing Lab at Tongji University, and is the leading founder of OpenKG, which is the largest Chinese knowledge graph community in the world. Currently, he holds important academic roles with the China Computer Federation (CCF), the Chinese Information Processing Society of China (CIPS), and the Shanghai Computer Federation, and has served as long-term PC member and reviewers for top journals and conferences on knowledge graphs and artificial intelligence, including AAAI, ACM MM, ICLR, IJCAI, IPM, ISWC, JWS, KBS, KDD, NeurIPS, TKDE, TNNLS, TOIS, WWW. Before joining Tongji, he served as CTO in leading AI companies, where he led a team in building an intelligent customer service robot based on knowledge graphs, that has served over 1 billion end-users. He has host several national natural science foundation projects, 863 major projects, and relevant projects supported by the Ministry of Science and Technology. He has published over 100 high-level papers with over 5,600 citations, four books on knowledge graphs, with the book "Knowledge Graph Methods, Practices, and Applications" winning the 2019 Publication Award of Professional Category of 2020 China Industry and Information Technology Publishing& Media Group (4/8000). 
+intro: 王昊奋是同济大学设计创意学院特聘研究员、博士生导师。他的研究方向为知识图谱。他领导同济大学知识计算实验室，并且是OpenKG（全球最大的中文知识图谱社区）的主要创始人。目前，他在中国计算机学会（CCF）、中国中文信息学会（CIPS）和上海市计算机学会担任重要学术职务，并长期担任知识图谱和人工智能领域顶级期刊和会议的程序委员会成员和审稿人，包括AAAI、ACM MM、ICLR、IJCAI、IPM、ISWC、JWS、KBS、KDD、NeurIPS、TKDE、TNNLS、TOIS、WWW等。在加入同济大学之前，他曾在领先的人工智能公司担任CTO，领导团队构建基于知识图谱的智能客服机器人，已服务超过10亿终端用户。他主持过多项国家自然科学基金项目、863重大项目以及科技部相关项目。已发表高水平论文100余篇，引用5600余次，出版知识图谱相关著作4部，其中《知识图谱方法、实践与应用》获得2020年中国工业和信息化出版传媒集团专业类出版物奖（4/8000）。
 ---
 - **Google Scholar [[link]](https://scholar.google.com.hk/citations?user=1FhdXpsAAAAJ)**
 - **DBLP [[link]](https://dblp.uni-trier.de/pid/63/4317.html)**
 
-## Education Experience:
+## 教育经历：
 
-- 2007-09 to 2013-12, Shanghai Jiao Tong University, Computer Science and Engineering, PhD
-- 2005-09 to 2007-06, Shanghai Jiao Tong University, Computer Science and Engineering, Master
-- 2001-09 to 2005-06, Shanghai Jiao Tong University, Computer Science and Engineering, Bachelor
+- 2007-09至2013-12，上海交通大学，计算机科学与工程，博士
+- 2005-09至2007-06，上海交通大学，计算机科学与工程，硕士
+- 2001-09至2005-06，上海交通大学，计算机科学与工程，学士
+- 
+## 研究与学术工作经历：
 
-## Research and Academic Work Experience:
+- 2019-09至今，同济大学，设计创意学院，研究员
+- 2018-07至2019-08，上海乐言信息技术有限公司，技术部，CTO
+- 2017-02至2018-06，深圳狗尾草智能科技有限公司，技术部，CTO
+- 2014-01至2017-01，华东理工大学，信息学院计算机科学与工程系，讲师
 
-- 2019-09 to Present, Tongji University, Design and Innovation College, Researcher
-- 2018-07 to 2019-08, Shanghai LeYan Information Technology Co., Ltd., Technology Department, CTO
-- 2017-02 to 2018-06, Shenzhen Dogtail Grass Intelligent Technology Co., Ltd., Technology Department, CTO
-- 2014-01 to 2017-01, East China University of Science and Technology, Information College Computer Science and Engineering Department, Lecturer
+## 研究方向：
 
-## Research Interests
-
-- Knowledge Graphs
-- Retrieval-Augmented Large Language Models
-- Neuro-Symbolic Integration
+- 知识图谱
+- 检索增强大语言模型
+- 神经符号融合
 
 ## Academic Roles:
 - Council Member of the Chinese Information Processing Society of China
