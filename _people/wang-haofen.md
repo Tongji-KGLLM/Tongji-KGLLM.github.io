@@ -133,7 +133,7 @@ Published over 100 high-level papers in the **Knowledge Graph**, **Natural Langu
 - Best Datathon Result at the 1st Summer Datathon on Linguistic Linking Open Data (SD-LLOD-15) in 2015
 
 ## Selected Talks:
-- Keynote Speaker, "RAG2.0: A New Paradigm for Knowledge Enhancement Integrating Graph, Reasoning, and Decision Making", ADL158 "AI Search and Information Agents". [[Slides]](/assets/talks/RAG2融合图、推理与决策的知识增强新范式.pdf)
+- Keynote Speaker, "RAG2.0: A New Paradigm for Knowledge Enhancement Integrating Graph, Reasoning, and Decision Making", ADL158 "AI Search and Information Agents". [[Slides]](/assets/talks/RAG2.pdf)
 - Keynote Speaker, “KG+LLM: Reconstructing and Evolving Knowledge Graphs through Large Language Models”, DataFun Summit 2025. [[Slides]](/assets/talks/DataFun_Summit2025.pdf)
 - Keynote Speaker, “The Era of Agentic RAG:DeepSeek drives knowledge retrieval enhancement with upgraded reasoning models”, Tencent Cloud Valuable Professional(TVP) Seminar 2025. [[Slides]](/assets/talks/融合推理的知识检索增强.pdf)
 - Keynote Speaker, "Theoretical Innovations and New Research Paradigms of Knowledge Graphs in the Era of Large Language Models", the First International OpenKG Workshop Large Knowledge-Enhanced Models @IJCAI 2024 [[Slides]](/assets/talks/IJCAI_2024.pdf)
