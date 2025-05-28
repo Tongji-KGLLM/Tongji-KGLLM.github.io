@@ -9,7 +9,7 @@ The knowledge computing lab of Tongji University is dedicated to cutting edge re
 
 
 ## Latest News
-- [ADL158 "AI Search and Information Agents": 《RAG2.0: A New Paradigm for Knowledge Enhancement Integrating Graph, Reasoning, and Decision Making》](/assets/talks/RAG2融合图、推理与决策的知识增强新范式.pdf)
+- [ADL158 "AI Search and Information Agents": 《RAG2.0: A New Paradigm for Knowledge Enhancement Integrating Graph, Reasoning, and Decision Making》](/assets/talks/RAG2.pdf)
 
 - [Tencent Cloud Valuable Professional(TVP) Seminar 2025: 《The Era of Agentic RAG:DeepSeek drives knowledge retrieval enhancement with upgraded reasoning models》](/assets/talks/融合推理的知识检索增强.pdf)
 
