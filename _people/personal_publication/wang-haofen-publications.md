@@ -9,15 +9,15 @@ permalink: /people/wang-haofen/publications/
 </div>
 
 ## 2025
-- Gao Y, Xiong Y, Hu Z, Zhang Y, Wang M, & **Wang H.**.(2025). Cognitive Bias and Reassignment: Who Can Contribute High Quality LLM Data[C]//Proceedings of the AAAI Conference on Artificial Intelligence, 39(27): 28007-28014. (**CCF A**)
-- Du H, Li S, Dai Y, & **Wang H.**.(2025). Effortless In-Vehicle Task-Oriented Dialogue: Enhancing Natural and Efficient Interactions[C]//Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems. 2025: 1-10.
-- Zhong Y, Gao Y, Zhang X, & **Wang H.**.(2025). ODDA: An OODA-Driven Diverse Data Augmentation Framework for Low-Resource Relation Extraction[C]//Findings of the Association for Computational Linguistics: ACL 2025. 2025: 267-285. (**CCF A**)
+- Gao Y, Xiong Y, Hu Z, Zhang Y, Wang M, & **Wang H.**.(2025). Cognitive Bias and Reassignment: Who Can Contribute High Quality LLM Data. Proceedings of the AAAI Conference on Artificial Intelligence, 39(27): 28007-28014. (**CCF A**)
+- Du H, Li S, Dai Y, & **Wang H.**.(2025). Effortless In-Vehicle Task-Oriented Dialogue: Enhancing Natural and Efficient Interactions. Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems. 2025: 1-10.
+- Zhong Y, Gao Y, Zhang X, & **Wang H.**.(2025). ODDA: An OODA-Driven Diverse Data Augmentation Framework for Low-Resource Relation Extraction. Findings of the Association for Computational Linguistics: ACL 2025. 2025: 267-285. (**CCF A**)
 - Luo, Y., Ru, X., Liu, K., Yuan, L., Sun, M., Zhang, N., **Wang H.**,..., & Chen, H. (2025). OneKE: A Dockerized Schema-Guided LLM Agent-based Knowledge Extraction System. In Companion Proceedings of the ACM on Web Conference 2025 (pp. 2871-2874). (**CCF A**)
 - Ma, C., Chen, Y., Wu, T., Khan, A., & **Wang, H.** (2025). Unifying Large Language Models and Knowledge Graphs for Question Answering: Recent Advances and Opportunities. In EDBT (pp. 1174-1177).
-- Xiong L., **Wang H.**, Chen X.,..., Liu J.(2025). DeepSeek: Paradigm Shifts and Technical Evolution in Large AI Models[J]. IEEE/CAA Journal of Automatica Sinica, 12(5): 841-858.
+- Xiong L., **Wang H.**, Chen X.,..., Liu J.(2025). DeepSeek: Paradigm Shifts and Technical Evolution in Large AI Models. IEEE/CAA Journal of Automatica Sinica, 12(5): 841-858.
 - Feng, X., Du, H., Ma, J., Wang, H., Zhou, L., & **Wang, H.** (2025). Crafting user-centric prompts for UI generations based on Kansei engineering and knowledge graph. Advanced Engineering Informatics, 65, 103217.
 - Zhong, Y., Wu, F., Guo, M., Zhang, X., Wang, M., & **Wang, H.** (2025). Meta-PKE: Memory-Enhanced Task-Adaptive Personal Knowledge Extraction in Daily Life. Information Processing & Management, 62(4), 104097.
-- Sheng T., Xiong Y.,...,& **Wang, H.**(2025). Deep reinforcement learning for community architectural layout generation[J]. Knowledge and Information Systems, 67(3): 2453-2480.
+- Sheng T., Xiong Y.,...,& **Wang, H.**(2025). Deep reinforcement learning for community architectural layout generation. Knowledge and Information Systems, 67(3): 2453-2480.
 - **Wang H**, Khan A, Liu J, M Witbrock.(2025). Guest Editorial: Special issue on “Neuro-Symbolic Intelligence: large Language Model enabled Knowledge Engineering”. World Wide Web, 28(1): 14. (**CCF A**)
 - Ye, Y., Ren, J., Wang, S., Wan, Y., Razzak, I., Hoex, B.,**Wang, H.**, ... & Zhang, W. (2025). Construction and Application of Materials Knowledge Graph in Multidisciplinary Materials Science via Large Language Model. Advances in Neural Information Processing Systems, 37, 56878-56897. (**CCF A**)
 - **Wang, H.**, Khan, A., Liu, J., & Witbrock, M. (2025). Guest Editorial: Special issue on “Neuro-Symbolic Intelligence: large Language Model enabled Knowledge Engineering”. World Wide Web, 28(1), 14.
