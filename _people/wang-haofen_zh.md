@@ -35,7 +35,7 @@ intro: 王昊奋，同济大学设计创意学院特聘研究员、博士生导�
 - 长期担任委员会成员和审稿人：AAAI、ACM MM、ICLR、IJCAI、IPM、ISWC、JWS、KBS、KDD、NeurIPS、TKDE、TNNLS、TOIS、WWW等
 
 ## 精选论文
-- Feng, X., Du, H., Ma, J., **Wang, H.**, Zhou, L. & Wang, M. (2025). Crafting user-centric prompts for UI generations based on Kansei engineering and knowledge graph. Adv. Eng. Informatics, 65, 103217.     (**Q1**)
+- Feng, X., Du, H., Ma, J., **Wang, H.**, Zhou, L. & Wang, M. (2025). Crafting user-centric prompts for UI generations based on Kansei engineering and knowledge graph. Adv. Eng. Informatics, 65, 103217.  &nbsp;(**Q1**)
 - Wang, G., Wang, W., Cao, Y., Teng, Y., Guo, Q., **Wang, H.**, Lin, J., Ma, J., Liu, J. & Wang, Y. (2025). Possibilities and challenges in the moral growth of large language models: a philosophical perspective. Ethics Inf. Technol., 27(1), 9.
 - Xiong, L., **Wang, H.**, Chen, X., Sheng, L., Xiong, Y., Liu, J., Xiao, Y., Chen, H., Han, Q. & Tang, Y. (2025). DeepSeek: Paradigm Shifts and Technical Evolution in Large AI Models. IEEE CAA J. Autom. Sinica, 12(5), 841--858.   (**Q1**)
 - Zhong, Y., Wu, F., Guo, M., Zhang, X., Wang, M. & **Wang, H.** (2025). Meta-PKE: Memory-Enhanced Task-Adaptive Personal Knowledge Extraction in Daily Life. Inf. Process. Manag., 62(4), 104097.   (**Q1**)
