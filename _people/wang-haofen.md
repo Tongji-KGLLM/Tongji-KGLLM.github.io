@@ -1,6 +1,6 @@
 ---
 layout: person
-name_en: Wang Haofen
+name_en: Wang Haofen1
 position_en: Distinguished Researcher, Doctoral Supervisor
 affiliation_en: College of Design and Innovation, Tongji University
 avatar: /assets/images/wang-haofen.jpg
