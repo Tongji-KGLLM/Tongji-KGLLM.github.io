@@ -6,7 +6,7 @@ permalink: /people/
 
 ## Professors
 
-- [Wang Haofen](/people/wang-haofen_zh)
+- [Wang Haofen](/people/wang-haofen)
 - [Wang Meng](/people/wang-meng)
 
 ## PhD Students
