@@ -34,6 +34,43 @@ intro: 王昊奋，同济大学设计创意学院特聘研究员、博士生导�
 - 期刊客座编辑：Big Data Mining and Analytics、World Wide Web Journal、计算机学会通讯、智能计算和计算机研究与发展
 - 长期担任委员会成员和审稿人：AAAI、ACM MM、ICLR、IJCAI、IPM、ISWC、JWS、KBS、KDD、NeurIPS、TKDE、TNNLS、TOIS、WWW等
 
+## 精选论文
+- Gao Y, Xiong Y, Hu Z, Zhang Y, Wang M, & **Wang H.**.(2025). Cognitive Bias and Reassignment: Who Can Contribute High Quality LLM Data. Proceedings of the AAAI Conference on Artificial Intelligence, 39(27): 28007-28014. (**CCF A**)
+- Zhong Y, Gao Y, Zhang X, & **Wang H.**.(2025). ODDA: An OODA-Driven Diverse Data Augmentation Framework for Low-Resource Relation Extraction. Findings of the Association for Computational Linguistics: ACL 2025. 2025: 267-285. (**CCF A**)
+- Xiong, L., **Wang, H.**, Chen, X., Sheng, L., Xiong, Y., Liu, J., ... & Tang, Y. (2025). DeepSeek: Paradigm Shifts and Technical Evolution in Large AI Models. IEEE/CAA Journal of Automatica Sinica, 12(5), 841-858.(**Q1**)
+- Luo, Y., Ru, X., Liu, K., Yuan, L., Sun, M., Zhang, N., **Wang H.**,..., & Chen, H. (2025). OneKE: A Dockerized Schema-Guided LLM Agent-based Knowledge Extraction System. In Companion Proceedings of the ACM on Web Conference 2025 (pp. 2871-2874). (**CCF A**)
+- Wang, X., Chen, Z., **Wang, H.**, Hou U, L., Li, Z., & Guo, W. (2025). Large language model enhanced knowledge representation learning: A survey. Data Science and Engineering, 1-24.(**Q1**)
+- Wang, G., Wang, W., Cao, Y., Teng, Y., Guo, Q.,**Wang, H.**, ... & Wang, Y. (2025). Possibilities and challenges in the moral growth of large language models: a philosophical perspective. Ethics and Information Technology, 27(1), 9.(**Q1**)
+- Feng, X., Du, H., Ma, J., Wang, H., Zhou, L., & **Wang, H.** (2025). Crafting user-centric prompts for UI generations based on Kansei engineering and knowledge graph. Advanced Engineering Informatics, 65, 103217.(**Q1**)
+- **Wang H**, Khan A, Liu J, M Witbrock.(2025). Guest Editorial: Special issue on “Neuro-Symbolic Intelligence: large Language Model enabled Knowledge Engineering”. World Wide Web, 28(1): 14. (**CCF A**)
+- Guo, Q., Wu, J., Wu, T., **Wang, H.**, Ge, W., & Zhang, W. (2025). Enhancing Environmental Robustness in Few-shot Learning via Conditional Representation Learning. IEEE Transactions on Image Processing.(**Q1**)
+- Ye, Y., Ren, J., Wang, S., Wan, Y., Razzak, I., Hoex, B.,**Wang, H.**, ... & Zhang, W. (2025). Construction and Application of Materials Knowledge Graph in Multidisciplinary Materials Science via Large Language Model. Advances in Neural Information Processing Systems, 37, 56878-56897. (**CCF A**)
+- Liu, J., Tian, X., Tong, H., Xie, C., Ruan, T., Cong, L., ... & **Wang, H.** (2024). Enhancing Chinese abbreviation prediction with LLM generation and contrastive evaluation. Information Processing & Management, 61(4), 103768. (**Q1**)
+- Gao, X., Xiong, Y., Wang, D., Guan, Z., Shi, Z., **Wang, H.**, & Li, S. (2024). Preference-Guided Refactored Tuning for Retrieval Augmented Code Generation. 2024 39th IEEE/ACM International Conference on Automated Software Engineering (ASE), 65-77. (**CCF A**)
+- Guo, Q., Ren, J., **Wang, H.**, Wu, T., Ge, W., & Zhang, W. (2024). Visual-Language Collaborative Representation Network for Broad-Domain Few-Shot Image Classification. ACM Multimedia. (**CCF A**)
+- Zhang, W., Wang, J., Chen, C., Lu, W., Du, W., **Wang, H.**, Liu, J., & Ruan, T. (2024). A Bidirectional Extraction-Then-Evaluation Framework for Complex Relation Extraction. IEEE Transactions on Knowledge and Data Engineering, 36, 7442-7454. (**Q1**)
+- Lin, Y., Ruan, T., Liu, J., & **Wang, H**. (2024). A survey on neural data-to-text generation. *IEEE Transactions on Knowledge and Data Engineering*.（**Q1**）
+- Wang, S., Liang, C., Gao, Y., Yang, L., Li, J., & **Wang, H**. (2024). Decoding Urban Industrial Complexity: Enhancing Knowledge-Driven Insights via IndustryScopeGPT. *Proceedings of the 31st ACM International Conference on Multimedia*. (**CCF A**)
+- Wang, S., Zhao, X., Qiu, J., **Wang, H.**, & Tao, C. (2024). WDCIP: spatio-temporal AI-driven disease control intelligent platform for combating COVID-19 pandemic. Geo-spatial Information Science, 27(6), 2023-2047.(**Q1**)
+- Hei, N., Guo, Q., Wang, Z., Wang, Y., **Wang, H**., & Zhang, W. (2024). A User-Friendly Framework for Generating Model-Preferred Prompts in Text-to-Image Synthesis. *Proceedings of the AAAI Conference on Artificial Intelligence*. (**CCF A**)
+- Wang, S., Liang, C., Gao, Y., Ye, Y., Qiu, J., Tao, C., & **Wang, H**. (2024). Social media insights into spatio-temporal emotional responses to COVID-19 crisis. *Health & Place*, 85, 103174.(**Q1**)
+- Liu, L., Du, H., Zhang, X., Guo, M., **Wang, H.**, & Wang, M. (2024). A Question-Answering Assistant over Personal Knowledge Graph. *Proceedings of the 47th International ACM SIGIR Conference on Research and Development in Information Retrieval*. (**CCF A**)
+- Tao, W., Zhou, Y., Wang, Y., Zhang, H., **Wang, H**., & Zhang, W. (2024). KADEL: Knowledge-Aware Denoising Learning for Commit Message Generation. ACM Transactions on Software Engineering and Methodology.(**Q1**)
+- Liu, M., Hu, W., Ding, J., Xu, J., Li, X., Zhu, L., **Wang, H.**, ... & Zhang, S. (2024). Medbench: A comprehensive, standardized, and reliable benchmarking system for evaluating chinese medical large language models. Big Data Mining and Analytics, 7(4), 1116-1128.(**Q1**)
+- Du, H., Feng, X., Ma, J., Wang, M., Tao, S., Zhong, Y., ... & **Wang, H**. (2024). Towards Proactive Interactions for In-Vehicle Conversational Assistants Utilizing Large Language Models. *Proceedings of the 33rd International Joint Conference on Artificial Intelligence*. (**CCF A**)
+- Du, H., Tao, S., Feng, X., Ma, J., & **Wang, H**. (2024). From Passive to Active: Towards Conversational In-Vehicle Navigation Through Large Language Models. *International Conference on Human-Computer Interaction*. (**Best Paper Award**)
+- Gao, Y., Xiong, Y., Gao, X., Jia, K., Pan, J., Bi, Y., ... & **Wang, H**. (2023). Retrieval-augmented generation for large language models: A survey. arXiv preprint arXiv:2312.10997. (**3000+ 引用**)
+- Liu, M., Zhao, C., Peng, X., Yu, S., **Wang, H**., & Sha, C. (2023). Task-oriented ml/dl library recommendation based on a knowledge graph. *IEEE Transactions on Software Engineering*, 49(8), 4081-4096. (**Q1**)
+- Du, H., Zhang, X., Wang, M., Chen, Y., Ji, D., Ma, J., & **Wang, H.** (2023). A contrastive framework for enhancing knowledge graph question answering: Alleviating exposure bias. Knowledge-Based Systems, 280, 110996.(**Q1**)
+- Li, S., Zhang, T., & Wang, H. (2023). KG-BERT: A Novel Approach for Integrating Knowledge Graphs into BERT for Enhanced NLP Tasks. In *Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics*. (**CCF A**)
+- Chen, X., Xiong, Y., Wang, S., **Wang, H**., Sheng, T., Zhang, Y., & Ye, Y. (2023). ReCo: A dataset for residential community layout planning. *Proceedings of the 31st ACM International Conference on Multimedia*. (**CCF A**)
+- Zhang, C., Gao, S., **Wang, H**., & Zhang, W. (2022). Position-aware Joint Entity and Relation Extraction with Attention Mechanism. *Proceedings of the 31st International Joint Conference on Artificial Intelligence*. (**CCF A**)
+
+## 精选专著
+- 《知识图谱》（“人工智能与智能教育”丛书）. 教育科学出版社, 2022年7月. （主编，撰写8.2万字）.
+- 《多源知识融合与应用》. 电子工业出版社, 2025年3月. （第二主编）. ISBN: 9787121499388.
+- 《人智交互：实现以人为中心AI的跨学科融合》. 清华大学出版社, 2024年9月. （参编）. ISBN: 9787302669678.
+
 ## 近期研究项目
 - 国家自然科学重点项目：大规模知识计算平台构建技术研究
 - 国家自然科学项目： 基于可解释神经符号推理的多跳知识问答方法研究
@@ -114,8 +151,10 @@ intro: 王昊奋，同济大学设计创意学院特聘研究员、博士生导�
 - 2015年第一届夏季数据马拉松语言链接开放数据(SD-LLOD-15)最佳数据马拉松结果
 
 ## 精选演讲:
-- 主讲人，“KG+LLM：通过大型语言模型重建和进化知识图”。2025年DataFun峰会。[[Slides]](/assets/talks/DataFun_Summit2025.pdf)
-- 主讲人，“代理RAG时代：DeepSeek通过升级推理模型推动知识检索增强”。2025年腾讯云有价值专家研讨会。 [[Slides]](/assets/talks/融合推理的知识检索增强.pdf)
+- 主讲人，"从RAG到KAG：结构化思维范式下的复杂推理"，2025腾讯云架构师峰会。[[Slides]](/assets/talks/RAGtoKAG.pdf)
+- 主讲人，"RAG2.0：融合图技术、推理与决策的新一代知识增强范式"，ADL158人工智能搜索与信息智能体课程。[[Slides]](/assets/talks/RAG2.pdf)
+- 主讲人，"KG+LLM：通过大型语言模型重建和进化知识图"。2025年DataFun峰会。[[Slides]](/assets/talks/DataFun_Summit2025.pdf)
+- 主讲人，"代理RAG时代：DeepSeek通过升级推理模型推动知识检索增强"。2025年腾讯云有价值专家研讨会。 [[Slides]](/assets/talks/融合推理的知识检索增强.pdf)
 - 主讲人，"大语言模型时代知识图谱的理论创新与新研究范式"，首届国际OpenKG大规模知识增强模型研讨会@IJCAI 2024 [[Slides]](/assets/talks/IJCAI_2024.pdf)
 - 主讲人，"面向大规模、多样化和动态场景的工业级知识图谱平台"，2024国际LLM+KG研讨会：统一大语言模型+知识图谱的数据管理机会@VLDB 2024 [[Slides]](/assets/talks/VLDB_2024.pdf)
 - 主讲人，"走向由知识图谱和大语言模型驱动的智能系统"，计算语言学与自然语言处理国际会议(CLNLP 2023) [[Slides]](/assets/talks/CNLP_2023.pdf)
