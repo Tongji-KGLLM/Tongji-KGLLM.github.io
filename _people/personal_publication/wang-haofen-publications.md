@@ -50,7 +50,7 @@ permalink: /people/wang-haofen/publications/
 
 
 ## 2023
-- Gao, Y., Xiong, Y., Gao, X., Jia, K., Pan, J., Bi, Y., ... & **Wang, H**. (2023). Retrieval-augmented generation for large language models: A survey. arXiv preprint arXiv:2312.10997. (**1400+ Citations**)
+- Gao, Y., Xiong, Y., Gao, X., Jia, K., Pan, J., Bi, Y., ... & **Wang, H**. (2023). Retrieval-augmented generation for large language models: A survey. arXiv preprint arXiv:2312.10997. (**3000+ Citations**)
 - Du, H., Zhang, X., Wang, M., Chen, Y., Ji, D., Ma, J., & **Wang, H.** (2023). A contrastive framework for enhancing knowledge graph question answering: Alleviating exposure bias. Knowledge-Based Systems, 280, 110996.
 - Lin, Y., Ruan, T., Liu, J., &  **Wang, H.** (2023). A survey on neural data-to-text generation. IEEE Transactions on Knowledge and Data Engineering, 36(4), 1431-1449.
 - 康砚澜, 郭倩宇, 张文强, & **王昊奋** (2023). 基于知识增强的医学语言模型: 现状, 技术与应用. 医学信息学杂志, 44(9), 12-22.
