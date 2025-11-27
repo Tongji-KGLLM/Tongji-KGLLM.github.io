@@ -61,6 +61,36 @@ Published over 100 high-level papers in the **Knowledge Graph**, **Natural Langu
 - BMW Research Funds: **Knowledge Engine and Platform in Intelligent Cockpit**
 
 ## Open Source Projects
+<div style="display: flex; align-items: center;">
+  <div style="flex: 65;">
+    <h3>KAG <a href="https://github.com/OpenSPG/KAG">[link]</a></h3>
+    <p>KAG is a professional domain knowledge-augmented service framework specifically designed for building domain-specific knowledge bases.</p>
+  </div>
+  <div style="flex: 35; text-align: center;">
+    <img src="/assets/images/project/KAG.png" alt="KAG" width="300">
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 65;">
+    <h3>KALM <a href="https://github.com/HITsz-TMG/KaLM-Embedding">[link]</a></h3>
+    <p>KALM is an embedding model for multilingual tasks.</p>
+  </div>
+  <div style="flex: 35; text-align: center;">
+    <img src="/assets/images/project/KALM.png" alt="KALM" width="300">
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 65;">
+    <h3>MemOS <a href="https://memos.openmem.net/cn">[link]</a></h3>
+    <p>MemOS is an intelligent memory operating system that enhances the personalization of large models. Through two key mechanisms—memory tiering and multi-granular scheduling—it enables continuous evolution and personalized responses of the models.</p>
+  </div>
+  <div style="flex: 35; text-align: center;">
+    <img src="/assets/images/project/MemOS.png" alt="MemOS" width="300">
+  </div>
+</div>
+
 
 <div style="display: flex; align-items: center;">
 <div style="flex: 65;">
@@ -74,41 +104,11 @@ Published over 100 high-level papers in the **Knowledge Graph**, **Natural Langu
 
 <div style="display: flex; align-items: center;">
 <div style="flex: 65;">
-<h3>OneKE <a href="https://github.com/zjunlp/DeepKE/blob/main/example/llm/OneKE.md">[link]</a></h3>
-<p>OneKE is a large language model-based knowledge extraction framework with preliminary bilingual (Chinese and English), multi-domain, and multi-task generalized knowledge extraction capabilities.</p>
-</div>
-<div style="flex: 35; text-align: center;">
-<img src="/assets/images/project/OneKE.png" alt="OneKE" width="300">
-</div>
-</div>
-
-<div style="display: flex; align-items: center;">
-<div style="flex: 65;">
 <h3>OpenSPG <a href="https://github.com/OpenSPG/openspg">[link]</a></h3>
 <p>OpenSPG is a knowledge graph engine developed by Ant Group in collaboration with OpenKG, based on the SPG (Semantic-enhanced Programmable Graph) framework. It provides capabilities for domain model constrained knowledge modeling and facts and logic fused representation.</p>
 </div>
 <div style="flex: 35; text-align: center;">
 <img src="/assets/images/project/OpenSPG.png" alt="OpenSPG" width="300">
-</div>
-</div>
-
-<div style="display: flex; align-items: center;">
-<div style="flex: 65;">
-<h3>OpenRAG <a href="https://openrag.notion.site/Open-RAG-c41b2a4dcdea4527a7c1cd998e763595">[link]</a></h3>
-<p>OpenRAG is an open-source project focused on Retrieval-Augmented Generation (RAG) techniques, aiming to enhance large language models with external knowledge retrieval capabilities.</p>
-</div>
-<div style="flex: 35; text-align: center;">
-<img src="/assets/images/project/OpenRAG.png" alt="OpenRAG" width="300">
-</div>
-</div>
-
-<div style="display: flex; align-items: center;">
-<div style="flex: 65;">
-<h3>cnSchema <a href="https://github.com/cnschema/cnSchema">[link]</a></h3>
-<p>cnSchema is an open Chinese knowledge graph schema, derived from schema.org and independently released by OpenKG. It focuses on Chinese information processing and supports rapid domain knowledge modeling.</p>
-</div>
-<div style="flex: 35; text-align: center;">
-<img src="/assets/images/project/cnSchema.png" alt="cnSchema" width="300">
 </div>
 </div>
 
