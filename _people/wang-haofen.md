@@ -138,6 +138,9 @@ Published over 100 high-level papers in the **Knowledge Graph**, **Natural Langu
 
 
 ## Awards
+- Silver Award in the 2025 MUSE Design Awards for "AI-Ceping: Large Model Evaluation Platform"
+- Third Prize for Scientific and Technological Progress in the 2025 CCF Science and Technology Achievement Awards
+- Best Student Paper, the 30th International Conference on Database Systems for Advanced Applications (DASFAA 2025)
 - First Prize, China Transportation Association Science and Technology Award in 2024
 - Best Paper, the 26th International Conference on Human-Computer Interaction (HCII 2024)
 - Best Paper, 2021 China Health Information Processing Conference (CHIP 2021)
