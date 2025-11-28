@@ -10,7 +10,12 @@ permalink: /people/wang-haofen/publications/
 
 ## 2025
 - Gao Y, Xiong Y, Hu Z, Zhang Y, Wang M, & **Wang H.**.(2025). Cognitive Bias and Reassignment: Who Can Contribute High Quality LLM Data. Proceedings of the AAAI Conference on Artificial Intelligence, 39(27): 28007-28014. (**CCF A**)
+- Gao, Y., Xiong, Y., Wu, W., Huang, Z., Li, B., & **Wang, H.**. (2025). U-NIAH: Unified RAG and LLM Evaluation for Long Context Needle-In-A-Haystack. ACM Transactions on Information Systems. (**CCF A**)
+- Wu, W., **Wang, H.**, Li, B., Huang, P., Zhao, X., & Liang, L. (2025). Multirag: a knowledge-guided framework for mitigating hallucination in multi-source retrieval augmented generation. In 2025 IEEE 41st International Conference on Data Engineering (ICDE) (pp. 3070-3083). IEEE. (**CCF A**)
+- Bi, Y., Gao, Y., & **Wang, H.** (2025). StePO-Rec: Towards Personalized Outfit Styling Assistant via Knowledge-Guided Multi-Step Reasoning. In Proceedings of the 33rd ACM International Conference on Multimedia (pp. 8409-8417).
+- Wang, X., Chen, Z., **Wang, H.**, Hou U, L., Li, Z., & Guo, W. (2025). Large language model enhanced knowledge representation learning: A survey. Data Science and Engineering, 1-24.
 - Du H, Li S, Dai Y, & **Wang H.**.(2025). Effortless In-Vehicle Task-Oriented Dialogue: Enhancing Natural and Efficient Interactions. Proceedings of the Extended Abstracts of the CHI Conference on Human Factors in Computing Systems. 2025: 1-10.
+- Chen, Y., Li, B., Li, Y., Song, L., **Wang, H.**, Wu, W., ... & Yin, H. (2025, November). NR-GCF: Graph Collaborative Filtering with Improved Noise Resistance. In Proceedings of the 34th ACM International Conference on Information and Knowledge Management (pp. 373-382).
 - Zhong Y, Gao Y, Zhang X, & **Wang H.**.(2025). ODDA: An OODA-Driven Diverse Data Augmentation Framework for Low-Resource Relation Extraction. Findings of the Association for Computational Linguistics: ACL 2025. 2025: 267-285. (**CCF A**)
 - Luo, Y., Ru, X., Liu, K., Yuan, L., Sun, M., Zhang, N., **Wang H.**,..., & Chen, H. (2025). OneKE: A Dockerized Schema-Guided LLM Agent-based Knowledge Extraction System. In Companion Proceedings of the ACM on Web Conference 2025 (pp. 2871-2874). (**CCF A**)
 - Ma, C., Chen, Y., Wu, T., Khan, A., & **Wang, H.** (2025). Unifying Large Language Models and Knowledge Graphs for Question Answering: Recent Advances and Opportunities. In EDBT (pp. 1174-1177).
