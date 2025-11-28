@@ -122,7 +122,7 @@ Published over 100 high-level papers in the **Knowledge Graph**, **Natural Langu
     <p>JoyAgent is the industry's first open-source, fully-featured, lightweight, and general-purpose multi-agent product.</p>
   </div>
   <div style="flex: 35; text-align: center;">
-    <img src="/assets/images/project/JoyAgent.png" alt="KALM" width="300">
+    <img src="/assets/images/project/JoyAgent.png" alt="JoyAgent" width="300">
   </div>
 </div>
 
