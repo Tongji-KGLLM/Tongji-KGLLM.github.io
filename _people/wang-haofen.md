@@ -78,8 +78,8 @@ Published over 100 high-level papers in the **Knowledge Graph**, **Natural Langu
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 65;">
-    <h3>KALM <a href="https://github.com/HITsz-TMG/KaLM-Embedding">[link]</a></h3>
-    <p>KALM is an embedding model for multilingual tasks.</p>
+    <h3>KALM Embedding<a href="https://github.com/HITsz-TMG/KaLM-Embedding">[link]</a></h3>
+    <p>KALM Embedding is an embedding model for multilingual tasks.</p>
   </div>
   <div style="flex: 35; text-align: center;">
     <img src="/assets/images/project/KALM.png" alt="KALM" width="300">
