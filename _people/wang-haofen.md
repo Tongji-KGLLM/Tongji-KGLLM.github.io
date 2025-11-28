@@ -132,7 +132,7 @@ Published over 100 high-level papers in the **Knowledge Graph**, **Natural Langu
 <p>AI-Ceping is a cutting-edge platform dedicated to the evaluation and advancement of LLMs. As a pioneer in the field, AI-Ceping offers a comprehensive suite of tools and services designed to test, improve, and showcase LLMs capabilities.</p>
 </div>
 <div style="flex: 35; text-align: center;">
-<img src="/assets/images/project/AI-ceping.png" alt="AI-Ceping" width="300">
+<img src="/assets/images/project/AI-ceping1.png" alt="AI-Ceping" width="300">
 </div>
 </div>
 
