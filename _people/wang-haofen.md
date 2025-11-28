@@ -67,37 +67,6 @@ Published over 100 high-level papers in the **Knowledge Graph**, **Natural Langu
 
 ## Open Source Projects
 <div style="display: flex; align-items: center;">
-  <div style="flex: 65;">
-    <h3>KAG <a href="https://github.com/OpenSPG/KAG">[link]</a></h3>
-    <p>KAG is a professional domain knowledge-augmented service framework specifically designed for building domain-specific knowledge bases.</p>
-  </div>
-  <div style="flex: 35; text-align: center;">
-    <img src="/assets/images/project/KAG.png" alt="KAG" width="300">
-  </div>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <div style="flex: 65;">
-    <h3>KALM Embedding<a href="https://github.com/HITsz-TMG/KaLM-Embedding">[link]</a></h3>
-    <p>KALM Embedding is an embedding model for multilingual tasks.</p>
-  </div>
-  <div style="flex: 35; text-align: center;">
-    <img src="/assets/images/project/KALM.png" alt="KALM" width="300">
-  </div>
-</div>
-
-<div style="display: flex; align-items: center;">
-  <div style="flex: 65;">
-    <h3>MemOS <a href="https://memos.openmem.net/cn">[link]</a></h3>
-    <p>MemOS is an intelligent memory operating system that enhances the personalization of large models. Through two key mechanisms—memory tiering and multi-granular scheduling—it enables continuous evolution and personalized responses of the models.</p>
-  </div>
-  <div style="flex: 35; text-align: center;">
-    <img src="/assets/images/project/MemOS.png" alt="MemOS" width="300">
-  </div>
-</div>
-
-
-<div style="display: flex; align-items: center;">
 <div style="flex: 65;">
 <h3>OpenKG <a href="http://openkg.cn">[link]</a></h3>
 <p>OpenKG is an open knowledge graph initiative aimed at promoting the openness, interconnection, and crowdsourcing of knowledge graph data centered on Chinese, as well as the open-source development of knowledge graph tools, models, and platforms.</p>
@@ -115,6 +84,46 @@ Published over 100 high-level papers in the **Knowledge Graph**, **Natural Langu
 <div style="flex: 35; text-align: center;">
 <img src="/assets/images/project/OpenSPG.png" alt="OpenSPG" width="300">
 </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 65;">
+    <h3>KAG <a href="https://github.com/OpenSPG/KAG">[link]</a></h3>
+    <p>KAG is a professional domain knowledge-augmented service framework specifically designed for building domain-specific knowledge bases.</p>
+  </div>
+  <div style="flex: 35; text-align: center;">
+    <img src="/assets/images/project/KAG.png" alt="KAG" width="300">
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 65;">
+    <h3>MemOS <a href="https://memos.openmem.net/cn">[link]</a></h3>
+    <p>MemOS is an intelligent memory operating system that enhances the personalization of large models. Through two key mechanisms—memory tiering and multi-granular scheduling—it enables continuous evolution and personalized responses of the models.</p>
+  </div>
+  <div style="flex: 35; text-align: center;">
+    <img src="/assets/images/project/MemOS.png" alt="MemOS" width="300">
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 65;">
+    <h3>KaLM Embedding<a href="https://github.com/HITsz-TMG/KaLM-Embedding">[link]</a></h3>
+    <p>KaLM Embedding is an embedding model for multilingual tasks.</p>
+  </div>
+  <div style="flex: 35; text-align: center;">
+    <img src="/assets/images/project/KALM.png" alt="KALM" width="300">
+  </div>
+</div>
+
+<div style="display: flex; align-items: center;">
+  <div style="flex: 65;">
+    <h3>JoyAgent<a href="https://github.com/jd-opensource/joyagent-jdgenie">[link]</a></h3>
+    <p>JoyAgent is the industry's first open-source, fully-featured, lightweight, and general-purpose multi-agent product.</p>
+  </div>
+  <div style="flex: 35; text-align: center;">
+    <img src="/assets/images/project/JoyAgent.png" alt="KALM" width="300">
+  </div>
 </div>
 
 <div style="display: flex; align-items: center;">
