@@ -36,57 +36,15 @@ Practice, Design Practice Research
 - Natural Langauge Processing
 
 ## Research Projects
-- National Key R&D Program (Ministry of Science and Technology) — New Generation AI
-2030 Major Project: Knowledge-Enhanced Scientific Embodied Agent Platform andApplications, CNY 48.54 million, Dec 2025 – Nov 2028, Principal Investigator of the subject (responsible for knowledge-enhanced simulated experimental environments and skill learning by agents)
-- National Natural Science Foundation of China (NSFC) Key Project: Research on Large-Scale
-Systematic Knowledge Computation Platform Construction, CNY 2.53 million, Jan 2024 – Dec 2027, Principal Investigator
-- NSFC General Program: Research on Multi-Hop Knowledge Question Answering Based on
-Explainable Neuro-Symbolic Reasoning, CNY 570,000, Jan 2022 – Dec 2025, Principal
-Investigator
-- Shanghai Basic Research Special Zone Program: Urban Characteristic Style Shaping Based
-on Multimodal Knowledge-Enhanced Large Models, CNY 1.6 million, Jan 2024 – Dec 2027, Co-Principal Investigator
-- Industry Project: Huawei Personal Intelligence Engine 2.0 Technology Collaboration, CNY
-2.55 million, Oct 2023 – Dec 2025, Principal Investigator
-- Industry Project: Datagrand Information Technology Knowledge Graph & Semantic
-Understanding Intelligent System Research, CNY 1 million, Jul 2021 – Jul 2025, Principal
-Investigator
-- Industry Project: Samsung Multimodal Knowledge Construction & Reasoning for Personal
-Memory Systems from Long Videos, CNY 490,000, Oct 2025 – Dec 2025, Principal
-Investigator
-- Industry Project: Meituan LLM Evaluation Dataset Construction Based on Crowdsourcing
-Competition, CNY 330,000, Sep 2023 – Dec 2023, Principal Investigator
-- Industry Project: miHoYo Platform Public Opinion Monitoring and Guidance, CNY 400,000, Aug 2021 – Mar 2022, Principal Investigator
-
-## Academic Roles:
-- Rotating Chair, OpenKG Knowledge Graph Community (2024–2026)
-- Chair, Technical Committee, OpenMem Memory-Centric AI System Open-Source
-Community (2025–present)
-- Executive Editor-in-Chief, Data Intelligence journal (2024–present)
-- Associate Editor, Knowledge Engineering & Review journal (2025–present)
-- Secretary-General, CCF (China Computer Federation) Technical Committee on Natural
-Language Processing (2024–2027)
-- Chair, CCF Technical Frontier — Knowledge Graph Special Interest Group (2024–2027)
-- Deputy Director, CCF Terminology Review Working Committee (2024–2026)
-- Member, CCF Academic Affairs Committee (2024–2026)
-- Standing Committee Member, CCF Technical Committee on Information Systems
-(2024–2027)
-- Council Member, Chinese Information Processing Society of China (CIPS) (2021–2026)
-- Deputy Secretary-General, CIPS Special Committee on Language and Knowledge
-Computing (2021–2026)
-- Program Committee Chair, IJCNLP-AACL 2025 (International Joint Conference on Natural
-Language Processing & Asia-Pacific Chapter of the Association for Computational
-Linguistics, 2025)
-- Chair, Large Knowledge-Enhanced Models Workshop @ IJCAI 2024
-- Program Committee Chair, WISA 2024 (International Conference on Web Information
-Systems and Applications)
-- General Chair, CCKS 2023 (China Conference on Knowledge Graph and Semantic
-Computing)
-- Forum Chair, Sixth Knowledge Graph Forum @ CNCC 2022 — “Knowledge Graphs
-Empowering Big Data and Massive Computing”
-- General Chair, IJCKG 2022 (International Joint Conference on Knowledge Graphs)
-- Program Committee Vice-Chair, WISA 2022
-- Program Committee Chair, IJCKG 2021
-- Program Committee Chair, CCKS 2021
+- National Key R&D Program (Ministry of Science and Technology) — New Generation AI 2030 Major Project: **Knowledge-Enhanced Scientific Embodied Agent Platform andApplications**, Dec 2025 – Nov 2028, Principal Investigator of the subject (responsible for knowledge-enhanced simulated experimental environments and skill learning by agents)
+- National Natural Science Foundation of China (NSFC) Key Project: **Research on Large-Scale Systematic Knowledge Computation Platform Construction**, Jan 2024 – Dec 2027, Principal Investigator
+- NSFC General Program: **Research on Multi-Hop Knowledge Question Answering Based on Explainable Neuro-Symbolic Reasoning**, Jan 2022 – Dec 2025, Principal Investigator
+- Shanghai Basic Research Special Zone Program: **Urban Characteristic Style Shaping Based on Multimodal Knowledge-Enhanced Large Models**, Jan 2024 – Dec 2027, Co-Principal Investigator
+- Industry Project: **Huawei Personal Intelligence Engine 2.0 Technology Collaboration**, Oct 2023 – Dec 2025, Principal Investigator
+- Industry Project: **Datagrand Information Technology Knowledge Graph & Semantic Understanding Intelligent System Research**, Jul 2021 – Jul 2025, Principal Investigator
+- Industry Project: **Samsung Multimodal Knowledge Construction & Reasoning for Personal Memory Systems from Long Videos**, Oct 2025 – Dec 2025, Principal Investigator
+- Industry Project: **Meituan LLM Evaluation Dataset Construction Based on Crowdsourcing Competition**, Sep 2023 – Dec 2023, Principal Investigator
+- Industry Project: **miHoYo Platform Public Opinion Monitoring and Guidance**, Aug 2021 – Mar 2022, Principal Investigator
 
 ## Guest Editor Roles
 - CAS Tier 1 Journal Big Data Mining and Analytics — Special Issue: “Challenges and
@@ -125,14 +83,6 @@ Haofen
 - A Generation Method and Device for Chinese General Knowledge Graph with Timestamps, Nov 3, 2020, China, ZL201710601438.9, Song Yanan, Qiu Nan, Wang Haofen, Shao Hao
 - A Multi-Source Cross-Domain Data Query Method and System, Aug 15, 2025, China, ZL202510206906.7, Li Bohan, Wu Wenlong, Wen Hao, Wang Haofen, Yin Hailian, Li Jingbo, Zhuo Junnan, Zhao Xinzhe, Liu Yuanrui[8] A Large Language Model Safety Detection Method Based on Automated Knowledge Graph Generation, Jul 18, 2025, China, ZL202510654123.5, Li Bohan, Zhao Xinzhe, Wu Wenlong, Zhuo Junnan, Huang Ruilong, Liu Liang, Wang Haofen, Ruan Guoyue
 
-## Recent Research Grants
-- National Natural Science Key Project: **Research on the Technology of Building Large-scale Knowledge Computing Platform**
-- National Natural Science Project: **Research on Multi-hop Knowledge Question Answering Method Based on Explainable Neural Symbolic Reasoning**
-- National Natural Science Project: **Research on Efficient Query Methods for Large-scale Annotated Semantic Knowledge**
-- Samsung Research Funds: **Multimodal Knowledge Construction & Reasoning for Personal Memory Systems from Long Videos**
-- Huawei Research Funds: **Knowledge-enhanced Personal Intelligent Assistant**
-- BMW Research Funds: **Knowledge Engine and Platform in Intelligent Cockpit**
-
 ## Open Source Projects
 <div style="display: flex; align-items: center;">
 <div style="flex: 65;">
@@ -141,16 +91,6 @@ Haofen
 </div>
 <div style="flex: 35; text-align: center;">
 <img src="/assets/images/project/OpneKG.png" alt="OpenKG" width="300">
-</div>
-</div>
-
-<div style="display: flex; align-items: center;">
-<div style="flex: 65;">
-<h3>OpenSPG <a href="https://github.com/OpenSPG/openspg">[link]</a></h3>
-<p>OpenSPG is a knowledge graph engine developed by Ant Group in collaboration with OpenKG, based on the SPG (Semantic-enhanced Programmable Graph) framework. It provides capabilities for domain model constrained knowledge modeling and facts and logic fused representation.</p>
-</div>
-<div style="flex: 35; text-align: center;">
-<img src="/assets/images/project/OpenSPG.png" alt="OpenSPG" width="300">
 </div>
 </div>
 
@@ -166,7 +106,7 @@ Haofen
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 65;">
-    <h3>MemOS <a href="https://memos.openmem.net/cn">[link]</a></h3>
+    <h3>MemOS <a href="https://github.com/MemTensor/MemOS">[link]</a></h3>
     <p>MemOS is an intelligent memory operating system that enhances the personalization of large models. Through two key mechanisms—memory tiering and multi-granular scheduling—it enables continuous evolution and personalized responses of the models.</p>
   </div>
   <div style="flex: 35; text-align: center;">
@@ -176,7 +116,7 @@ Haofen
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 65;">
-    <h3>KaLM Embedding<a href="https://github.com/HITsz-TMG/KaLM-Embedding">[link]</a></h3>
+    <h3>KaLM Embedding<a href="https://kalm-embedding.github.io/">[link]</a></h3>
     <p>KaLM-Embedding, a multilingual embedding model, leverages high-quality training data and advanced techniques to achieve superior performance compared to other similarly sized models on the MTEB benchmark.</p>
   </div>
   <div style="flex: 35; text-align: center;">
@@ -237,6 +177,37 @@ RDF Data”
 - Keynote Speaker, "Industry-level Knowledge Graph Platform for Large-scale, Diverse and Dynamic Scenarios", 2024 International Workshop on LLM+KG: Data Management Opportunities in Unifying Large Language Models+Knowledge Graphs @VLDB 2024 [[Slides]](/assets/talks/VLDB_2024.pdf)
 - Keynote Speaker, "Towards Intelligent Systems Driven by Knowledge Graph and Large Language Model", the International Conference on Computational Linguistics and Natural Language Processing (CLNLP 2023) [[Slides]](/assets/talks/CNLP_2023.pdf)
 - Keynote Speaker, "Emerging Technologies of Knowledge Graph in the Big Data Era", 6th International Joint Conference, APWeb-WAIM 2022 [[Slides]](/assets/talks/APWeb_2022.pdf)
+
+## Academic Roles:
+- Rotating Chair, OpenKG Knowledge Graph Community (2024–2026)
+- Chair, Technical Committee, OpenMem Memory-Centric AI System Open-Source
+Community (2025–present)
+- Executive Editor-in-Chief, Data Intelligence journal (2024–present)
+- Associate Editor, Knowledge Engineering & Review journal (2025–present)
+- Secretary-General, CCF (China Computer Federation) Technical Committee on Natural
+Language Processing (2024–2027)
+- Chair, CCF Technical Frontier — Knowledge Graph Special Interest Group (2024–2027)
+- Deputy Director, CCF Terminology Review Working Committee (2024–2026)
+- Member, CCF Academic Affairs Committee (2024–2026)
+- Standing Committee Member, CCF Technical Committee on Information Systems
+(2024–2027)
+- Council Member, Chinese Information Processing Society of China (CIPS) (2021–2026)
+- Deputy Secretary-General, CIPS Special Committee on Language and Knowledge
+Computing (2021–2026)
+- Program Committee Chair, IJCNLP-AACL 2025 (International Joint Conference on Natural
+Language Processing & Asia-Pacific Chapter of the Association for Computational
+Linguistics, 2025)
+- Chair, Large Knowledge-Enhanced Models Workshop @ IJCAI 2024
+- Program Committee Chair, WISA 2024 (International Conference on Web Information
+Systems and Applications)
+- General Chair, CCKS 2023 (China Conference on Knowledge Graph and Semantic
+Computing)
+- Forum Chair, Sixth Knowledge Graph Forum @ CNCC 2022 — “Knowledge Graphs
+Empowering Big Data and Massive Computing”
+- General Chair, IJCKG 2022 (International Joint Conference on Knowledge Graphs)
+- Program Committee Vice-Chair, WISA 2022
+- Program Committee Chair, IJCKG 2021
+- Program Committee Chair, CCKS 2021
 
 ## Practical Applications
 
