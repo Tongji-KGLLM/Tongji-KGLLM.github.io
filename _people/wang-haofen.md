@@ -11,9 +11,9 @@ intro: Haofen Wang is a research fellow and doctoral supervisor at the College o
 
 ## Research Interests
 - Knowledge Graphs
-- Retrieval-Augmented Large Language Models
-- Neuro-Symbolic Integration
-- Natural Langauge Processing
+- Natural Language Processing
+- Retrieval-Augmented Generation
+- Knowledge-Enhanced Large Language Models
 
 ## Education
 - 2007-09 to 2013-12, Shanghai Jiao Tong University, Computer Science and Engineering, PhD
@@ -137,12 +137,6 @@ single-paper citations: 5,367. [[Selected Recent Papers]](/people/wang-haofen/pu
 - 2018 Grand Prize, Startup Track, 4th National Youth AI Innovation and Entrepreneurship Conference “Leyu AI Customer Service Robot”, Second Contributor
 - 2016 Shanghai Outstanding Doctoral Dissertation Award “Semantic Search over Large-Scale RDF Data”
 
-## Guest Editor Roles
-- CAS Tier 1 Journal Big Data Mining and Analytics — Special Issue: “Challenges and Opportunities in Retrieval-Augmented Generation for LLMs: Techniques, Trends and
-Applications”
-- CCF-B Journal World Wide Web Journal — Special Issue: “Neuro-Symbolic Intelligence: Large Language Model Enabled Knowledge Engineering”
-- CCF-B Chinese Journal Journal of Frontiers of Computer Science and Technology — Special Issue: “Construction and Application of Domain-Specific Large Language Models”
-
 ## Academic Roles
 - Rotating Chair, OpenKG Knowledge Graph Community (2024–2026)
 - Chair, Technical Committee, OpenMem Memory-Centric AI System Open-Source Community (2025–present)
@@ -165,11 +159,12 @@ Applications”
 - Program Committee Chair, IJCKG 2021
 - Program Committee Chair, CCKS 2021
 
-## Practical Applications
+## Guest Editor Roles
+- CAS Tier 1 Journal Big Data Mining and Analytics — Special Issue: “Challenges and Opportunities in Retrieval-Augmented Generation for LLMs: Techniques, Trends and
+Applications”
+- CCF-B Journal World Wide Web Journal — Special Issue: “Neuro-Symbolic Intelligence: Large Language Model Enabled Knowledge Engineering”
+- CCF-B Chinese Journal Journal of Frontiers of Computer Science and Technology — Special Issue: “Construction and Application of Domain-Specific Large Language Models”
 
-- Led the team in creating the world's first interactive virtual idol "Amber·Virtual"
-- Developed an intelligent customer service chatbot serving over 1 billion users
-- Founded ["AI-ceping"](https://ai-ceping.com), a renowned large model evaluation and co-creation community, with over 1,000 daily active users and 1.5 million monthly community interactions
 
 ## Selected Talks
 - Keynote Speaker, "From RAG to KAG: Complex Reasoning under Structured Thinking Paradigms", Tencent Cloud Architects Summit 2025. [[Slides]](/assets/talks/RAGtoKAG.pdf)
