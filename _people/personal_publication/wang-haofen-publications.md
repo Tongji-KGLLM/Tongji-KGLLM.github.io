@@ -9,6 +9,11 @@ permalink: /people/wang-haofen/publications/
 </div>
 
 ## 2025
+- Hierarchical Textual Knowledge for Enhanced Image Clustering, The IEEE/CVF Conference
+on Computer Vision and Pattern Recognition (CVPR), 2026, Corresponding Author. (**CCF A**)
+- CitySeeker: How Do VLMs Explore Embodied Urban Navigation with Implicit Human Needs?, The 14th International Conference on Learning Representations (ICLR), 2026, Corresponding Author. (**CCF A**)
+- HingeMem: Boundary Guided Long-Term Memory with Query Adaptive Retrieval for Scalable Dialogues, The ACM Web Conference (WWW), 2026, Corresponding Author. (**CCF A**)
+- Scene-aware memory discrimination: Deciding which personal knowledge stays, Knowledge Based Systems (KBS), 2026, Corresponding Author. (**SCI**) 
 - Gao Y, Xiong Y, Hu Z, Zhang Y, Wang M, & **Wang H.**.(2025). Cognitive Bias and Reassignment: Who Can Contribute High Quality LLM Data. Proceedings of the AAAI Conference on Artificial Intelligence, 39(27): 28007-28014. (**CCF A**)
 - Gao, Y., Xiong, Y., Wu, W., Huang, Z., Li, B., & **Wang, H.**. (2025). U-NIAH: Unified RAG and LLM Evaluation for Long Context Needle-In-A-Haystack. ACM Transactions on Information Systems. (**CCF A**, **SCI**, **Q1**)
 - Wu, W., **Wang, H.**, Li, B., Huang, P., Zhao, X., & Liang, L. (2025). Multirag: a knowledge-guided framework for mitigating hallucination in multi-source retrieval augmented generation. In 2025 IEEE 41st International Conference on Data Engineering (ICDE) (pp. 3070-3083). IEEE. (**CCF A**)
