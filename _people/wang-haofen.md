@@ -22,7 +22,8 @@ intro: Haofen Wang is a research fellow and doctoral supervisor at the College o
 - 2001-09 to 2005-06, Shanghai Jiao Tong University, Computer Science and Engineering, Bachelor of Science
 
 ## Work Experience
-- 2019-09 to Present, Tongji University, College of Design and Innovation, Distinguished Researcher
+- 2026-02 to Present, Tongji University, College of Design and Innovation, Tenured Professor
+- 2019-09 to 2026-01, Tongji University, College of Design and Innovation, Distinguished Researcher
 - 2018-07 to 2019-08, Shanghai Leyan Information Technology Co., Ltd. (valuation over USD 1 billion; AI-powered e-commerce customer service platform serving over 1 billion users), CTO
 - 2016-02 to 2018-06, Shenzhen Goome Robotics Co., Ltd. (AI unicorn in emotional companion robots; launched the world's first cultivatable virtual idol "Amber·XuYan"), CTO
 - 2014-01 to 2016-01, East China University of Science and Technology, Lecturer
@@ -44,8 +45,8 @@ Practice, Design Practice Research
 - Industry Project: **miHoYo Platform Public Opinion Monitoring and Guidance**, Aug 2021 – Mar 2022, Principal Investigator
 
 ## Publications
-In the past five years, 90 papers have been published, including 50+ high-level papers in CCF-A/B or CAS Tier 1/2 journals and conferences. Total Google Scholar citations: 10,944; highest
-single-paper citations: 5,367. [[Selected Recent Papers]](/people/wang-haofen/publications/)
+In the past five years, 90 papers have been published, including 50+ high-level papers in CCF-A/B or CAS Tier 1/2 journals and conferences. Total Google Scholar citations: 12,372; highest
+single-paper citations: 6,340. [[Selected Recent Papers]](/people/wang-haofen/publications/)
 
 ## Monographs
 - Retrieval-Augmented Generation: Theory and Practice, Electronic Industry Press, Wang Haofen, Wang Nan, Luo Yun, Gao Yunfan, January 2026
@@ -127,6 +128,7 @@ single-paper citations: 5,367. [[Selected Recent Papers]](/people/wang-haofen/pu
 </div>
 
 ## Awards and Honors
+- 2026 IF DESIGN AWARD 2026 WINNER “DRAWOR - CONSTRUCTION LAYOUT SYSTEM”
 - 2025 MUSE Design & Creativity Award, Silver Prize “AI-Ceping: Large Model Evaluation Platform”, First Contributor
 - 2025 CCF Science and Technology Achievement Award, Third Prize for Technological Progress “Key Technologies and Applications of Knowledge-Enhanced Intelligent Decision-Making”, First Contributor
 - 30th International Conference on Database Systems for Advanced Applications (DASFAA 2025) Best Student Paper “HBS-KGLLM: A General Framework for Generating Knowledge Graphs for Jailbreaking”
