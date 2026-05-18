@@ -9,6 +9,7 @@ permalink: /people/wang-haofen/publications/
 </div>
 
 ## 2026
+- StratMem-Bench: Evaluating Strategic Memory Use in Virtual Character Conversation Beyond Factual Recall, The 64th Annual Meeting of the Association for Computational Linguistics (ACL), 2026, Corresponding Author, Accepted.  (**CCF A**) 
 - Hierarchical Textual Knowledge for Enhanced Image Clustering, The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2026, Corresponding Author, Accepted.  (**CCF A**) 
 - CitySeeker: How Do VLMs Explore Embodied Urban Navigation with Implicit Human Needs?, The 14th International Conference on Learning Representations (ICLR), 2026, Corresponding Author, Accepted.  (**CCF A**)
 - HingeMem: Boundary Guided Long-Term Memory with Query Adaptive Retrieval for Scalable Dialogues, The ACM Web Conference (WWW), 2026, Corresponding Author, Accepted.  (**CCF A**)
