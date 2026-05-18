@@ -70,7 +70,7 @@ single-paper citations: 6,340. [[Selected Recent Papers]](/people/wang-haofen/pu
 <div style="display: flex; align-items: center;">
 <div style="flex: 65;">
 <h3>OpenKG <a href="http://openkg.cn">[link]</a></h3>
-<p>OpenKG is an open knowledge graph initiative aimed at promoting the openness, interconnection, and crowdsourcing of knowledge graph data centered on Chinese, as well as the open-source development of knowledge graph tools, models, and platforms.</p>
+<p>OpenKG is the world's largest Chinese open knowledge graph community, promoting the open-sourcing of high-quality datasets, open-source tools, open-source models, and open benchmarks.</p>
 </div>
 <div style="flex: 35; text-align: center;">
 <img src="/assets/images/project/OpneKG.png" alt="OpenKG" width="300">
@@ -80,7 +80,7 @@ single-paper citations: 6,340. [[Selected Recent Papers]](/people/wang-haofen/pu
 <div style="display: flex; align-items: center;">
   <div style="flex: 65;">
     <h3>KAG <a href="https://github.com/OpenSPG/KAG">[link]</a></h3>
-    <p>KAG is a professional domain knowledge-augmented service framework specifically designed for building domain-specific knowledge bases.</p>
+    <p>KAG is a stable and efficient reasoning framework for enterprise-grade applications; includes the world's first interactive deep-reasoning open-source model KAG-Thinker; deployed across Ant Group and industries including healthcare and finance; over 10,000 GitHub Stars.</p>
   </div>
   <div style="flex: 35; text-align: center;">
     <img src="/assets/images/project/KAG.png" alt="KAG" width="280">
@@ -90,7 +90,7 @@ single-paper citations: 6,340. [[Selected Recent Papers]](/people/wang-haofen/pu
 <div style="display: flex; align-items: center;">
   <div style="flex: 65;">
     <h3>MemOS <a href="https://github.com/MemTensor/MemOS">[link]</a></h3>
-    <p>MemOS is an intelligent memory operating system that enhances the personalization of large models. Through two key mechanisms—memory tiering and multi-granular scheduling—it enables continuous evolution and personalized responses of the models.</p>
+    <p>MemOS is a memory-native operating system for large language models, supporting automated conversion among explicit memory, activation memory, and parametric memory, as well as multi-granularity memory scheduling; over 9,000 GitHub Stars; 1,000,000 daily calls.</p>
   </div>
   <div style="flex: 35; text-align: center;">
     <img src="/assets/images/project/MemOS.png" alt="MemOS" width="300">
@@ -100,7 +100,7 @@ single-paper citations: 6,340. [[Selected Recent Papers]](/people/wang-haofen/pu
 <div style="display: flex; align-items: center;">
   <div style="flex: 65;">
     <h3>KaLM Embedding<a href="https://kalm-embedding.github.io/">[link]</a></h3>
-    <p>KaLM-Embedding, a multilingual embedding model, leverages high-quality training data and advanced techniques to achieve superior performance compared to other similarly sized models on the MTEB benchmark.</p>
+    <p>KaLM-Embedding is a lightweight and efficient multilingual knowledge embedding model achieving state-of-the-art performance on embedding benchmarks; over 1 million total downloads on Hugging Face.</p>
   </div>
   <div style="flex: 35; text-align: center;">
     <img src="/assets/images/project/KALM1.png" alt="KALM" width="200">
@@ -110,7 +110,7 @@ single-paper citations: 6,340. [[Selected Recent Papers]](/people/wang-haofen/pu
 <div style="display: flex; align-items: center;">
   <div style="flex: 65;">
     <h3>JoyAgent<a href="https://github.com/jd-opensource/joyagent-jdgenie">[link]</a></h3>
-    <p>JoyAgent is the industry's first open-source, fully-featured, lightweight, and general-purpose multi-agent product.</p>
+    <p>JoyAgent is a general-purpose multi-agent platform developed in collaboration with JD.com, supporting full lifecycle management, scheduling, monitoring, and orchestration of agents.</p>
   </div>
   <div style="flex: 35; text-align: center;">
     <img src="/assets/images/project/JoyAgent.png" alt="JoyAgent" width="300">
@@ -120,7 +120,7 @@ single-paper citations: 6,340. [[Selected Recent Papers]](/people/wang-haofen/pu
 <div style="display: flex; align-items: center;">
 <div style="flex: 65;">
 <h3>AI-Ceping <a href="https://ai-ceping.com">[link]</a></h3>
-<p>AI-Ceping is a cutting-edge platform dedicated to the evaluation and advancement of LLMs. As a pioneer in the field, AI-Ceping offers a comprehensive suite of tools and services designed to test, improve, and showcase LLMs capabilities.</p>
+<p>AI-Ceping is a crowdsourcing platform for large model evaluation with 300,000 monthly active users.</p>
 </div>
 <div style="flex: 35; text-align: center;">
 <img src="/assets/images/project/AI-ceping1.png" alt="AI-Ceping" width="300">
@@ -145,7 +145,8 @@ single-paper citations: 6,340. [[Selected Recent Papers]](/people/wang-haofen/pu
 - Executive Editor-in-Chief, Data Intelligence journal (2024–present)
 - Associate Editor, Knowledge Engineering & Review journal (2025–present)
 - Secretary-General, CCF (China Computer Federation) Technical Committee on Natural Language Processing (2024–2027)
-- Chair, CCF Technical Frontier — Knowledge Graph Special Interest Group (2024–2027)
+- Chair, CCF Technical Frontier — Data & Knowledge Engineering Special Interest Group (2026–2028)
+- Chair, CCF Technical Frontier — Knowledge Graph Special Interest Group (2024–2026)
 - Deputy Director, CCF Terminology Review Working Committee (2024–2026)
 - Member, CCF Academic Affairs Committee (2024–2026)
 - Standing Committee Member, CCF Technical Committee on Information Systems (2024–2027)
